@@ -1,0 +1,5 @@
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteDeVentasDiariasSucursales\obj\Release\ReporteDeVentasDiariasSucursales.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteDeVentasDiariasSucursales\obj\Release\ReporteDeVentasDiariasSucursales.Form2.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteDeVentasDiariasSucursales\obj\Release\ReporteDeVentasDiariasSucursales.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteDeVentasDiariasSucursales\obj\Release\ReporteDeVentasDiariasSucursales.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteDeVentasDiariasSucursales\obj\Release\ReporteDeVentasDiariasSucursales.csprojResolveAssemblyReference.cache

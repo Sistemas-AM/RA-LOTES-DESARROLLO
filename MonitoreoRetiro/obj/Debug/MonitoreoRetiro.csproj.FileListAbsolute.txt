@@ -1,0 +1,349 @@
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\obj\Debug\RdlCompile.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MonitoreoRetiro\obj\Debug\RdlCompile.compiled
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\Principal.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\Principal.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\obj\Debug\RdlCompile.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MonitoreoRetiro\obj\Debug\RdlCompile.compiled
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\Principal.exe
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\obj\Debug\RdlCompile.cache
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\obj\Debug\RdlCompile.compiled
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+D:\Sistemas\ReportesAMSA - Copy\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\RdlCompile.cache
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\RdlCompile.compiled
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+D:\Sistemas Respaldo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\obj\Debug\RdlCompile.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\obj\Debug\RdlCompile.compiled
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.exe
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.pdb
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\obj\Debug\RdlCompile.cache
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\obj\Debug\RdlCompile.compiled
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+D:\Programas Git\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\obj\Debug\RdlCompile.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\obj\Debug\RdlCompile.compiled
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\obj\Debug\RdlCompile.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\obj\Debug\RdlCompile.compiled
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MonitoreoRetiro.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MonitoreoRetiro\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MonitoreoRetiro\obj\Debug\MonitoreoRetiro.pdb

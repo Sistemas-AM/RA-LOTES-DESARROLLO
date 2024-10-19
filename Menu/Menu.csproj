@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9CBA8FF1-0B10-416F-B6B7-C7C710D4B6AD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Menu</RootNamespace>
+    <AssemblyName>Menu</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Sistemas Practicas 2\Desktop\prueba\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>3</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>IconoAMSA.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>9315A68933D3639934CE3894DB52D8A36A88D7A7</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Menu_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'AmsaPrueba|AnyCPU'">
+    <OutputPath>bin\AmsaPrueba\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'AmsaPrueba|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\AmsaPrueba\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'AmsaPrueba|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\AmsaPrueba\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Variablescompartidas.cs" />
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Menu_ClaveTemporal.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CargaArchivos\CargaArchivos.csproj">
+      <Project>{45b325eb-186b-42d0-8b1c-9cba67f39ca3}</Project>
+      <Name>CargaArchivos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CatalagoPrecios\CatalagoPrecios.csproj">
+      <Project>{13c902f6-2369-4d15-bf3a-a4d3895e653d}</Project>
+      <Name>CatalagoPrecios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CorteGeneral\CorteGeneral.csproj">
+      <Project>{a84071a9-6492-4a39-9d00-897807d594ca}</Project>
+      <Name>CorteGeneral</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CortePlanta\CortePlanta.csproj">
+      <Project>{69b443af-7114-4b4d-be5d-adc3fafbd543}</Project>
+      <Name>CortePlanta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Corte\Corte.csproj">
+      <Project>{1c089070-458d-4862-b10c-a335f7013c5a}</Project>
+      <Name>Corte</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cotizacion2\Cotizacion2.csproj">
+      <Project>{0b2e180b-8aae-4ab4-9897-617d603e7ce7}</Project>
+      <Name>Cotizacion2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cotizaciones\Cotizaciones.csproj">
+      <Project>{2bea7384-873f-40eb-a9b2-d761ff7fc943}</Project>
+      <Name>Cotizaciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cotizacion\Cotizacion.csproj">
+      <Project>{d45b2102-405a-49a7-8555-7952d3030b58}</Project>
+      <Name>Cotizacion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DistribucionMaterialesSucursales\DistribucionMaterialesSucursales.csproj">
+      <Project>{dd27e951-9b28-4e3c-bb6b-44e34bfdd193}</Project>
+      <Name>DistribucionMaterialesSucursales</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DistribucionMateriales\DistribucionMateriales.csproj">
+      <Project>{26d536a9-cb4c-420d-8675-d8f12d5153c0}</Project>
+      <Name>DistribucionMateriales</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FormatoSolidos\FormatoSolidos.csproj">
+      <Project>{2fb6818a-1f4d-4e22-a3f6-7d3fa7424d02}</Project>
+      <Name>FormatoSolidos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Formato\Formato.csproj">
+      <Project>{e72e2286-ef4b-452e-8b46-171d2e079424}</Project>
+      <Name>Formato</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MaximosMinimos\MaximosMinimos.csproj">
+      <Project>{11caef98-a8a1-4a9a-bb0f-779d5e304f78}</Project>
+      <Name>MaximosMinimos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Pedido\Pedido.csproj">
+      <Project>{c0b071b3-1e87-4af4-a8b4-a4bbff3aebf7}</Project>
+      <Name>Pedido</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Repo2\Repo2.csproj">
+      <Project>{65863197-2589-48ca-bc0c-aeab099222b3}</Project>
+      <Name>Repo2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RepoCapas\RepoCapas.csproj">
+      <Project>{4dd6a0dc-9632-4649-9c13-fc11de79d323}</Project>
+      <Name>RepoCapas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\repoInv\repoInv.csproj">
+      <Project>{f2432e5c-5808-4368-a72e-6de5c666e213}</Project>
+      <Name>repoInv</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RepoLore\RepoLore.csproj">
+      <Project>{614af3a3-d219-40cb-81ba-99b6aa0a5bfa}</Project>
+      <Name>RepoLore</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RepoMaterialNoConforme\RepoMaterialNoConforme.csproj">
+      <Project>{6c724614-a3b7-4999-9137-e4a01c3275d6}</Project>
+      <Name>RepoMaterialNoConforme</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reporte de Cobranza\Reporte de Cobranza.csproj">
+      <Project>{be2bf12e-3706-4fa2-ab4c-72024dd3c568}</Project>
+      <Name>Reporte de Cobranza</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reporte de Compras\Reporte de Compras.csproj">
+      <Project>{a9584ba1-533f-4b16-8fba-fa63777eb659}</Project>
+      <Name>Reporte de Compras</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteCapSucursales\ReporteCapSucursales.csproj">
+      <Project>{0f084110-71b1-4637-9c8c-b5dd1bc46c66}</Project>
+      <Name>ReporteCapSucursales</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteDescuentos\ReporteDescuentos.csproj">
+      <Project>{19e99d7b-72f2-4d5a-9154-f0df880a1cef}</Project>
+      <Name>ReporteDescuentos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteDeVentasDiarias\ReporteDeVentasDiarias.csproj">
+      <Project>{b890ad5e-c5eb-4220-94a2-457ef42ec825}</Project>
+      <Name>ReporteDeVentasDiarias</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteDevoluciones\ReporteDevoluciones.csproj">
+      <Project>{00b79b28-3d8e-44bd-9308-ee3e0abc8fd6}</Project>
+      <Name>ReporteDevoluciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteGeneralDeVentasPorUnidades\ReporteGeneralDeVentasPorUnidades.csproj">
+      <Project>{7bbd8342-6c72-433d-a334-d6c1bb13de13}</Project>
+      <Name>ReporteGeneralDeVentasPorUnidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteVentasporSucursal\ReporteVentasporSucursal.csproj">
+      <Project>{76be35d8-8c8c-4712-8f9a-2033d3ce7562}</Project>
+      <Name>ReporteVentasporSucursal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteVentasSucursal\ReporteVentasSucursal.csproj">
+      <Project>{035e8927-085e-44a6-bedf-66225fe05f0b}</Project>
+      <Name>ReporteVentasSucursal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RepTraspasos\RepTraspasos.csproj">
+      <Project>{82fca248-5236-4a7b-9e6a-f8f01b07bba4}</Project>
+      <Name>RepTraspasos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SurtidoAccesorios\SurtidoAccesorios.csproj">
+      <Project>{9b2e00f6-ec97-4ffe-a167-a898898c39d6}</Project>
+      <Name>SurtidoAccesorios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tipo_Cambio\Tipo_Cambio.csproj">
+      <Project>{11210539-47da-478a-b52a-b9a925141b8e}</Project>
+      <Name>Tipo_Cambio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reporte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports-1065.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue-Background-Wallpaper-HD-16273.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue-Background-Wallpaper-HD-162731.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2017-4-light-background-geo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salida por tiempo %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="IconoAMSA.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="CrystalDecisions.CrystalReports.Engine">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ClientDoc">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommLayer">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommonControls">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommonObjectModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.Controllers">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CubeDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.DataDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.DataSetConversion">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ObjectFactory">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.Prompting">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ReportDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.XmlSerialize">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportSource">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Shared">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Windows.Forms">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Dapper">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="itextsharp">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="SAP.CrystalReports14.NET.2.0">
+      <Visible>False</Visible>
+      <ProductName>SAP Crystal Reports Runtime Engine for .NET Framework</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

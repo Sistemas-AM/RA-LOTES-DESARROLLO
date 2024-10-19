@@ -1,0 +1,4 @@
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\obj\Release\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\obj\Release\Menu.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\obj\Release\Menu.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\obj\Release\Menu.csproj.GenerateResource.Cache

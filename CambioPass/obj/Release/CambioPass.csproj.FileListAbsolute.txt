@@ -1,0 +1,4 @@
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CambioPass\obj\Release\CambioPass.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CambioPass\obj\Release\CambioPass.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CambioPass\obj\Release\CambioPass.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CambioPass\obj\Release\CambioPass.csprojResolveAssemblyReference.cache

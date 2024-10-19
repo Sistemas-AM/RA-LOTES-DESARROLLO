@@ -1,0 +1,675 @@
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\Traspasos.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\Traspasos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\Traspasos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Productos.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Recibidos.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\stdole.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Formato.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Formato2.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Reporte.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Choferes.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Carros.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Reporte1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Reporte1Pdf.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Pedido.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Clientes.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\obj\Debug\Traspasos.FormatoCliente.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\ReportesTraspasos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Traspasos\bin\Debug\ReportesTraspasos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\Traspasos.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\Traspasos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\Traspasos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\ReportesTraspasos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\stdole.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\ReportesTraspasos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Carros.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Choferes.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Clientes.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Formato.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Formato2.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.FormatoCliente.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Pedido.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Productos.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Recibidos.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Reporte.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Reporte1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Reporte1Pdf.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\Traspasos.exe.config
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\Traspasos.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\Traspasos.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\FlashControlV71.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\ReportesTraspasos.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\stdole.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\bin\Debug\ReportesTraspasos.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Carros.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Choferes.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Clientes.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Form1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Formato.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Formato2.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.FormatoCliente.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Pedido.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Productos.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Properties.Resources.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Recibidos.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Reporte.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Reporte1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Reporte1Pdf.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Traspasos\obj\Debug\Traspasos.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\Traspasos.exe.config
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\Traspasos.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\Traspasos.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.Shared.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\FlashControlV71.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\Principal.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\ReportesTraspasos.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\ShockwaveFlashObjects.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\stdole.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\Principal.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\bin\Debug\ReportesTraspasos.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.csproj.ResolveComReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Carros.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Choferes.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Clientes.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Formato.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Formato2.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.FormatoCliente.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Pedido.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Productos.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Recibidos.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Reporte.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Reporte1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.Reporte1Pdf.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Traspasos\obj\Debug\Traspasos.pdb
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\Traspasos.exe.config
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\Traspasos.exe
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\Traspasos.pdb
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\FlashControlV71.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\Principal.exe
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\ReportesTraspasos.exe
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\stdole.dll
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\bin\Debug\ReportesTraspasos.pdb
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.csproj.ResolveComReference.cache
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.Carros.resources
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.Choferes.resources
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.Clientes.resources
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.Formato.resources
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.Formato2.resources
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.FormatoCliente.resources
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.Pedido.resources
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.Productos.resources
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.Recibidos.resources
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.Reporte.resources
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.Reporte1.resources
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.Reporte1Pdf.resources
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.exe
+D:\Sistemas\ReportesAMSA - Copy\Traspasos\obj\Debug\Traspasos.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\FlashControlV71.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\stdole.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.ResolveComReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Carros.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Choferes.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Clientes.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato2.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.FormatoCliente.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Pedido.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Productos.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Recibidos.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1Pdf.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\FlashControlV71.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\stdole.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Carros.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Choferes.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Clientes.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato2.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.FormatoCliente.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Pedido.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Productos.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Recibidos.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1Pdf.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\FlashControlV71.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\stdole.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.ResolveComReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Carros.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Choferes.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Clientes.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato2.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.FormatoCliente.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Pedido.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Productos.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Recibidos.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1Pdf.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Carros.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Choferes.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Clientes.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato2.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.FormatoCliente.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Pedido.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Productos.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Recibidos.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1Pdf.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Carros.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Choferes.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Clientes.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato2.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.FormatoCliente.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Pedido.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Productos.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Recibidos.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1Pdf.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Carros.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Choferes.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Clientes.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato2.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.FormatoCliente.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Pedido.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Productos.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Recibidos.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1Pdf.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Carros.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Choferes.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Clientes.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato2.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.FormatoCliente.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Pedido.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Productos.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Recibidos.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1Pdf.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Carros.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Choferes.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Clientes.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato2.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.FormatoCliente.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Pedido.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Productos.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Recibidos.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1Pdf.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Carros.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Choferes.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Clientes.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato2.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.FormatoCliente.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Pedido.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Productos.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Recibidos.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1Pdf.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\Traspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\bin\Debug\ReportesTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Carros.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Choferes.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Clientes.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Formato2.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.FormatoCliente.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Pedido.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Productos.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Recibidos.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.Reporte1Pdf.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Traspasos\obj\Debug\Traspasos.pdb

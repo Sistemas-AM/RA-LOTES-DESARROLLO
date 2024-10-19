@@ -1,0 +1,259 @@
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MaterialSkin.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Design.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Fonts.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\obj\Debug\RdlCompile.cache
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\obj\Debug\RdlCompile.compiled
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.exe
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe.config
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Form1.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\obj\Debug\RdlCompile.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\obj\Debug\RdlCompile.compiled
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.pdb
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe.config
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.pdb
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\bin\Debug\MaterialSkin.dll
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Design.dll
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.dll
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Fonts.dll
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.exe
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.pdb
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csprojResolveAssemblyReference.cache
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Form1.resources
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Properties.Resources.resources
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csproj.GenerateResource.Cache
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\obj\Debug\RdlCompile.cache
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\obj\Debug\RdlCompile.compiled
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.exe
+D:\Programas Git\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\obj\Debug\RdlCompile.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\obj\Debug\RdlCompile.compiled
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\MaterialSkin.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Design.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Fonts.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\obj\Debug\RdlCompile.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\obj\Debug\RdlCompile.compiled
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteRelaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteRelaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteRelaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteRelaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\ReporteRelaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteRelaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteRelaciones\obj\Debug\ReporteRelaciones.pdb

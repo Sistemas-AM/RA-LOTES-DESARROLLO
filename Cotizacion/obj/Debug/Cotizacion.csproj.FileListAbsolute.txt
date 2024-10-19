@@ -1,0 +1,1049 @@
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\FlashControlV71.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\RdlCompile.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Cotizacion\obj\Debug\RdlCompile.compiled
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\Cotizacion.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\Principal.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\stdole.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\Principal.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\FlashControlV71.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\RdlCompile.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Cotizacion\obj\Debug\RdlCompile.compiled
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\Cotizacion.exe.config
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\Cotizacion.exe
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\Cotizacion.pdb
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\FlashControlV71.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\Principal.exe
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\stdole.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\RdlCompile.cache
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\RdlCompile.compiled
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\Cotizacion.exe
+D:\Sistemas\ReportesAMSA - Copy\Cotizacion\obj\Debug\Cotizacion.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\FlashControlV71.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\stdole.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\RdlCompile.cache
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\RdlCompile.compiled
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\FlashControlV71.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\RdlCompile.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\RdlCompile.compiled
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\FlashControlV71.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\Principal.exe
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\stdole.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\Principal.pdb
+D:\Programas Git\Reportes_AMSA\Cotizacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\RdlCompile.cache
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\RdlCompile.compiled
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.exe
+D:\Programas Git\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\FlashControlV71.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\MetroFramework.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\RdlCompile.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\RdlCompile.compiled
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\FlashControlV71.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\MetroFramework.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\RdlCompile.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia - copia\Cotizacion\obj\Debug\RdlCompile.compiled
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\Cotizacion.exe.config
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\Cotizacion.exe
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\Cotizacion.pdb
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\FlashControlV71.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\Principal.exe
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\stdole.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\Principal.pdb
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\RdlCompile.cache
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\RdlCompile.compiled
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.exe
+D:\Sistemas\Reportes_AMSA - Copy\Cotizacion\obj\Debug\Cotizacion.pdb
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\Cotizacion.exe.config
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\Cotizacion.exe
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\Cotizacion.pdb
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\FlashControlV71.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\Principal.exe
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\stdole.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\Principal.pdb
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\RdlCompile.cache
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\RdlCompile.compiled
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.exe
+D:\Sistemas\Reportes_AMSA2\Cotizacion\obj\Debug\Cotizacion.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\FlashControlV71.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\stdole.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\RdlCompile.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\RdlCompile.compiled
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clientes.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Clienteslocales.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Condicion.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ctzaciones.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Existencias.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.FormatoEntrega.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Productos.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteCotizaciones.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.ReporteGeneral.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cotizacion\obj\Debug\Cotizacion.pdb

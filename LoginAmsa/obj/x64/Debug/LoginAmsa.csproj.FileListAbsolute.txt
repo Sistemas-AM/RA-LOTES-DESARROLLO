@@ -1,0 +1,5 @@
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LoginAmsa\bin\x64\Debug\LoginAmsa.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LoginAmsa\obj\x64\Debug\LoginAmsa.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LoginAmsa\obj\x64\Debug\LoginAmsa.Login.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LoginAmsa\obj\x64\Debug\LoginAmsa.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LoginAmsa\obj\x64\Debug\LoginAmsa.csproj.GenerateResource.Cache

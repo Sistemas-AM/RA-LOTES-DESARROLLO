@@ -1,0 +1,233 @@
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Tipo_Cambio\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Tipo_Cambio\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Tipo_Cambio\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Tipo_Cambio\bin\Debug\Principal.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+D:\Sistemas\ReportesAMSA - Copy\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+D:\Sistemas\ReportesAMSA - Copy\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+D:\Sistemas\ReportesAMSA - Copy\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+D:\Sistemas\ReportesAMSA - Copy\Tipo_Cambio\bin\Debug\Principal.exe
+D:\Sistemas\ReportesAMSA - Copy\Tipo_Cambio\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+D:\Sistemas\ReportesAMSA - Copy\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+D:\Sistemas\ReportesAMSA - Copy\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+D:\Sistemas\ReportesAMSA - Copy\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+D:\Programas Git\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+D:\Programas Git\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+D:\Programas Git\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+D:\Programas Git\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.exe
+D:\Programas Git\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+D:\Programas Git\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+D:\Programas Git\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+D:\Programas Git\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+D:\Programas Git\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+D:\Programas Git\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+D:\Programas Git\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+D:\Programas Git\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+D:\Programas Git\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Tipo_Cambio\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.CambioTipoCambio.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.cambio_pass.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Tipo_Cambio\obj\Debug\Tipo_Cambio.pdb

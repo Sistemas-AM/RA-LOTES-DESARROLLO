@@ -1,0 +1,31 @@
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\Reporte de Cobranza.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\Reporte de Cobranza.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\Reporte de Cobranza.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\Release\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\obj\Release\Reporte de Cobranza.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\obj\Release\Reporte_de_Cobranza.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\obj\Release\Reporte_de_Cobranza.Form3.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\obj\Release\Reporte_de_Cobranza.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\obj\Release\Reporte de Cobranza.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\obj\Release\Reporte de Cobranza.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\obj\Release\Reporte de Cobranza.pdb

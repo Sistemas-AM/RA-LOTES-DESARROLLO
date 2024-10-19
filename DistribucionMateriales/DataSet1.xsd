@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Codigo" msprop:Generator_ColumnVarNameInTable="columnCodigo" msprop:Generator_ColumnPropNameInRow="Codigo" msprop:Generator_ColumnPropNameInTable="CodigoColumn" msprop:Generator_UserColumnName="Codigo" type="xs:string" minOccurs="0" />
+              <xs:element name="Nombre" msprop:Generator_ColumnVarNameInTable="columnNombre" msprop:Generator_ColumnPropNameInRow="Nombre" msprop:Generator_ColumnPropNameInTable="NombreColumn" msprop:Generator_UserColumnName="Nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="Existen" msprop:Generator_ColumnVarNameInTable="columnExisten" msprop:Generator_ColumnPropNameInRow="Existen" msprop:Generator_ColumnPropNameInTable="ExistenColumn" msprop:Generator_UserColumnName="Existen" type="xs:string" minOccurs="0" />
+              <xs:element name="Cap" msprop:Generator_ColumnVarNameInTable="columnCap" msprop:Generator_ColumnPropNameInRow="Cap" msprop:Generator_ColumnPropNameInTable="CapColumn" msprop:Generator_UserColumnName="Cap" type="xs:string" minOccurs="0" />
+              <xs:element name="Max" msprop:Generator_ColumnVarNameInTable="columnMax" msprop:Generator_ColumnPropNameInRow="Max" msprop:Generator_ColumnPropNameInTable="MaxColumn" msprop:Generator_UserColumnName="Max" type="xs:string" minOccurs="0" />
+              <xs:element name="Surtir" msprop:Generator_ColumnVarNameInTable="columnSurtir" msprop:Generator_ColumnPropNameInRow="Surtir" msprop:Generator_ColumnPropNameInTable="SurtirColumn" msprop:Generator_UserColumnName="Surtir" type="xs:string" minOccurs="0" />
+              <xs:element name="Existen2" msprop:Generator_ColumnVarNameInTable="columnExisten2" msprop:Generator_ColumnPropNameInRow="Existen2" msprop:Generator_ColumnPropNameInTable="Existen2Column" msprop:Generator_UserColumnName="Existen2" type="xs:string" minOccurs="0" />
+              <xs:element name="Cap2" msprop:Generator_ColumnVarNameInTable="columnCap2" msprop:Generator_ColumnPropNameInRow="Cap2" msprop:Generator_ColumnPropNameInTable="Cap2Column" msprop:Generator_UserColumnName="Cap2" type="xs:string" minOccurs="0" />
+              <xs:element name="Max2" msprop:Generator_ColumnVarNameInTable="columnMax2" msprop:Generator_ColumnPropNameInRow="Max2" msprop:Generator_ColumnPropNameInTable="Max2Column" msprop:Generator_UserColumnName="Max2" type="xs:string" minOccurs="0" />
+              <xs:element name="Sutrir2" msprop:Generator_ColumnVarNameInTable="columnSutrir2" msprop:Generator_ColumnPropNameInRow="Sutrir2" msprop:Generator_ColumnPropNameInTable="Sutrir2Column" msprop:Generator_UserColumnName="Sutrir2" type="xs:string" minOccurs="0" />
+              <xs:element name="Existen3" msprop:Generator_ColumnVarNameInTable="columnExisten3" msprop:Generator_ColumnPropNameInRow="Existen3" msprop:Generator_ColumnPropNameInTable="Existen3Column" msprop:Generator_UserColumnName="Existen3" type="xs:string" minOccurs="0" />
+              <xs:element name="Cap3" msprop:Generator_ColumnVarNameInTable="columnCap3" msprop:Generator_ColumnPropNameInRow="Cap3" msprop:Generator_ColumnPropNameInTable="Cap3Column" msprop:Generator_UserColumnName="Cap3" type="xs:string" minOccurs="0" />
+              <xs:element name="Max3" msprop:Generator_ColumnVarNameInTable="columnMax3" msprop:Generator_ColumnPropNameInRow="Max3" msprop:Generator_ColumnPropNameInTable="Max3Column" msprop:Generator_UserColumnName="Max3" type="xs:string" minOccurs="0" />
+              <xs:element name="Surtir3" msprop:Generator_ColumnVarNameInTable="columnSurtir3" msprop:Generator_ColumnPropNameInRow="Surtir3" msprop:Generator_ColumnPropNameInTable="Surtir3Column" msprop:Generator_UserColumnName="Surtir3" type="xs:string" minOccurs="0" />
+              <xs:element name="Existen4" msprop:Generator_ColumnVarNameInTable="columnExisten4" msprop:Generator_ColumnPropNameInRow="Existen4" msprop:Generator_ColumnPropNameInTable="Existen4Column" msprop:Generator_UserColumnName="Existen4" type="xs:string" minOccurs="0" />
+              <xs:element name="Cap4" msprop:Generator_ColumnVarNameInTable="columnCap4" msprop:Generator_ColumnPropNameInRow="Cap4" msprop:Generator_ColumnPropNameInTable="Cap4Column" msprop:Generator_UserColumnName="Cap4" type="xs:string" minOccurs="0" />
+              <xs:element name="Max4" msprop:Generator_ColumnVarNameInTable="columnMax4" msprop:Generator_ColumnPropNameInRow="Max4" msprop:Generator_ColumnPropNameInTable="Max4Column" msprop:Generator_UserColumnName="Max4" type="xs:string" minOccurs="0" />
+              <xs:element name="Surtir4" msprop:Generator_ColumnVarNameInTable="columnSurtir4" msprop:Generator_ColumnPropNameInRow="Surtir4" msprop:Generator_ColumnPropNameInTable="Surtir4Column" msprop:Generator_UserColumnName="Surtir4" type="xs:string" minOccurs="0" />
+              <xs:element name="Planta" msprop:Generator_ColumnVarNameInTable="columnPlanta" msprop:Generator_ColumnPropNameInRow="Planta" msprop:Generator_ColumnPropNameInTable="PlantaColumn" msprop:Generator_UserColumnName="Planta" type="xs:string" minOccurs="0" />
+              <xs:element name="SurtidoSugerido" msprop:Generator_ColumnVarNameInTable="columnSurtidoSugerido" msprop:Generator_ColumnPropNameInRow="SurtidoSugerido" msprop:Generator_ColumnPropNameInTable="SurtidoSugeridoColumn" msprop:Generator_UserColumnName="SurtidoSugerido" type="xs:string" minOccurs="0" />
+              <xs:element name="SurtidoReal" msprop:Generator_ColumnVarNameInTable="columnSurtidoReal" msprop:Generator_ColumnPropNameInRow="SurtidoReal" msprop:Generator_ColumnPropNameInTable="SurtidoRealColumn" msprop:Generator_UserColumnName="SurtidoReal" type="xs:double" minOccurs="0" />
+              <xs:element name="TotalKilos" msprop:Generator_ColumnVarNameInTable="columnTotalKilos" msprop:Generator_ColumnPropNameInRow="TotalKilos" msprop:Generator_ColumnPropNameInTable="TotalKilosColumn" msprop:Generator_UserColumnName="TotalKilos" type="xs:double" minOccurs="0" />
+              <xs:element name="Letra" msprop:Generator_ColumnVarNameInTable="columnLetra" msprop:Generator_ColumnPropNameInRow="Letra" msprop:Generator_ColumnPropNameInTable="LetraColumn" msprop:Generator_UserColumnName="Letra" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

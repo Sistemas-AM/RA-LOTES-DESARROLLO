@@ -1,0 +1,4 @@
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteDeVentasDiariasSucursales\obj\x64\Debug\ReporteDeVentasDiariasSucursales.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteDeVentasDiariasSucursales\obj\x64\Debug\ReporteDeVentasDiariasSucursales.Form2.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteDeVentasDiariasSucursales\obj\x64\Debug\ReporteDeVentasDiariasSucursales.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteDeVentasDiariasSucursales\obj\x64\Debug\ReporteDeVentasDiariasSucursales.csproj.GenerateResource.Cache

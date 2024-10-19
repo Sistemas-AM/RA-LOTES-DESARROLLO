@@ -1,0 +1,267 @@
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CargaArchivos\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CargaArchivos\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+D:\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+D:\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+D:\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+D:\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CargaArchivos\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CargaArchivos\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CargaArchivos\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CargaArchivos\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\bin\Debug\Principal.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CargaArchivos\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+D:\Sistemas\ReportesAMSA - Copy\CargaArchivos\bin\Debug\CargaArchivos.exe
+D:\Sistemas\ReportesAMSA - Copy\CargaArchivos\bin\Debug\CargaArchivos.pdb
+D:\Sistemas\ReportesAMSA - Copy\CargaArchivos\bin\Debug\Principal.exe
+D:\Sistemas\ReportesAMSA - Copy\CargaArchivos\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+D:\Sistemas\ReportesAMSA - Copy\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\CargaArchivos\obj\Debug\CargaArchivos.exe
+D:\Sistemas\ReportesAMSA - Copy\CargaArchivos\obj\Debug\CargaArchivos.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+D:\Sistemas Respaldo\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+D:\Sistemas Respaldo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+D:\Programas Git\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+D:\Programas Git\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+D:\Programas Git\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+D:\Programas Git\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.exe
+D:\Programas Git\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.pdb
+D:\Programas Git\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+D:\Programas Git\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+D:\Programas Git\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+D:\Programas Git\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+D:\Programas Git\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+D:\Programas Git\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+D:\Programas Git\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\CargaArchivos\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\CargaArchivos\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\CargaArchivos\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\CargaArchivos\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\CargaArchivos\obj\Debug\CargaArchivos.pdb
+D:\Sistemas\Reportes_AMSA - Copy\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+D:\Sistemas\Reportes_AMSA - Copy\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+D:\Sistemas\Reportes_AMSA - Copy\CargaArchivos\obj\Debug\CargaArchivos.exe
+D:\Sistemas\Reportes_AMSA - Copy\CargaArchivos\obj\Debug\CargaArchivos.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CargaArchivos\bin\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CargaArchivos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CargaArchivos\obj\Debug\CargaArchivos.pdb

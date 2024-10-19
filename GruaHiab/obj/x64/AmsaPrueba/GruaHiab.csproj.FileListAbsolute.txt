@@ -1,0 +1,5 @@
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\GruaHiab\obj\x64\AmsaPrueba\GruaHiab.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\GruaHiab\obj\x64\AmsaPrueba\GruaHiab.Impresion.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\GruaHiab\obj\x64\AmsaPrueba\GruaHiab.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\GruaHiab\obj\x64\AmsaPrueba\GruaHiab.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\GruaHiab\obj\x64\AmsaPrueba\GruaHiab.csprojResolveAssemblyReference.cache

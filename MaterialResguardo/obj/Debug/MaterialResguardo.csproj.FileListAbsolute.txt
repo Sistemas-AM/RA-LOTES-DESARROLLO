@@ -1,0 +1,126 @@
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\MaterialResguardo\bin\Debug\MaterialResguardo.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\MaterialResguardo\bin\Debug\MaterialResguardo.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe.config
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MaterialResguardo\bin\Debug\MaterialResguardo.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Form1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Properties.Resources.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe.config
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MaterialResguardo\bin\Debug\MaterialResguardo.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\MaterialResguardo\obj\Debug\MaterialResguardo.pdb
+D:\Sistemas\ReportesAMSA - Copy\MaterialResguardo\bin\Debug\MaterialResguardo.exe.config
+D:\Sistemas\ReportesAMSA - Copy\MaterialResguardo\bin\Debug\MaterialResguardo.exe
+D:\Sistemas\ReportesAMSA - Copy\MaterialResguardo\bin\Debug\MaterialResguardo.pdb
+D:\Sistemas\ReportesAMSA - Copy\MaterialResguardo\obj\Debug\MaterialResguardo.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\MaterialResguardo\obj\Debug\MaterialResguardo.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\MaterialResguardo\obj\Debug\MaterialResguardo.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\MaterialResguardo\obj\Debug\MaterialResguardo.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\MaterialResguardo\obj\Debug\MaterialResguardo.exe
+D:\Sistemas\ReportesAMSA - Copy\MaterialResguardo\obj\Debug\MaterialResguardo.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe
+D:\Sistemas Respaldo\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.exe
+D:\Sistemas Respaldo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MaterialResguardo\bin\Debug\MaterialResguardo.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\MaterialResguardo\obj\Debug\MaterialResguardo.pdb

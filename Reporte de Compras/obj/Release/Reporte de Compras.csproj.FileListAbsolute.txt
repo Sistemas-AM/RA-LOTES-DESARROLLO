@@ -1,0 +1,37 @@
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\Reporte de Compras.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\Reporte de Compras.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\Reporte de Compras.application
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\Reporte de Compras.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\Reporte de Compras.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\bin\Release\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\obj\Release\Reporte de Compras.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\obj\Release\Reporte de Compras.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\obj\Release\Reporte_de_Compras.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\obj\Release\Reporte_de_Compras.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\obj\Release\Reporte_de_Compras.Recibidos.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\obj\Release\Reporte_de_Compras.reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\obj\Release\Reporte de Compras.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\obj\Release\Reporte de Compras.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\obj\Release\Reporte de Compras.application
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\obj\Release\Reporte de Compras.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Compras\obj\Release\Reporte de Compras.pdb

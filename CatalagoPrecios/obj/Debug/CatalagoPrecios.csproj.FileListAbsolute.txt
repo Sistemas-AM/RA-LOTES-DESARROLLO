@@ -1,0 +1,182 @@
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CatalagoPrecios\obj\Debug\CatalagoPrecios.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+D:\Sistemas\ReportesAMSA - Copy\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+D:\Sistemas\ReportesAMSA - Copy\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+D:\Sistemas\ReportesAMSA - Copy\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+D:\Sistemas\ReportesAMSA - Copy\CatalagoPrecios\obj\Debug\CatalagoPrecios.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+D:\Sistemas\ReportesAMSA - Copy\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+D:\Sistemas\ReportesAMSA - Copy\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+D:\Sistemas Respaldo\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+D:\Sistemas Respaldo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csprojResolveAssemblyReference.cache
+D:\Programas Git\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+D:\Programas Git\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+D:\Programas Git\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+D:\Programas Git\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csprojResolveAssemblyReference.cache
+D:\Programas Git\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+D:\Programas Git\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+D:\Programas Git\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+D:\Programas Git\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+D:\Programas Git\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+D:\Programas Git\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CatalagoPrecios\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\CatalagoPrecios\obj\Debug\CatalagoPrecios.pdb

@@ -1,0 +1,126 @@
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Ordenes\bin\Debug\Ordenes.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Ordenes\bin\Debug\Ordenes.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Ordenes\bin\Debug\Ordenes.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Ordenes\obj\Debug\Ordenes.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Ordenes\obj\Debug\Ordenes.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Ordenes\obj\Debug\Ordenes.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Ordenes\obj\Debug\Ordenes.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Ordenes\bin\Debug\Ordenes.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Ordenes\bin\Debug\Ordenes.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Ordenes\bin\Debug\Ordenes.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Ordenes\obj\Debug\Ordenes.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Ordenes\obj\Debug\Ordenes.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Ordenes\obj\Debug\Ordenes.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Ordenes\obj\Debug\Ordenes.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Ordenes\bin\Debug\Ordenes.exe.config
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Ordenes\bin\Debug\Ordenes.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Ordenes\bin\Debug\Ordenes.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Ordenes\obj\Debug\Ordenes.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Ordenes\obj\Debug\Ordenes.Form1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Ordenes\obj\Debug\Ordenes.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Ordenes\obj\Debug\Ordenes.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Ordenes\bin\Debug\Ordenes.exe.config
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Ordenes\bin\Debug\Ordenes.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Ordenes\bin\Debug\Ordenes.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Ordenes\obj\Debug\Ordenes.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Ordenes\obj\Debug\Ordenes.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Ordenes\obj\Debug\Ordenes.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Ordenes\obj\Debug\Ordenes.pdb
+D:\Sistemas\ReportesAMSA - Copy\Ordenes\bin\Debug\Ordenes.exe.config
+D:\Sistemas\ReportesAMSA - Copy\Ordenes\bin\Debug\Ordenes.exe
+D:\Sistemas\ReportesAMSA - Copy\Ordenes\bin\Debug\Ordenes.pdb
+D:\Sistemas\ReportesAMSA - Copy\Ordenes\obj\Debug\Ordenes.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\Ordenes\obj\Debug\Ordenes.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\Ordenes\obj\Debug\Ordenes.exe
+D:\Sistemas\ReportesAMSA - Copy\Ordenes\obj\Debug\Ordenes.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Ordenes\bin\Debug\Ordenes.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Ordenes\obj\Debug\Ordenes.pdb

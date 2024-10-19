@@ -1,0 +1,132 @@
+C:\Users\Programador\source\repos\ReportesAmsa\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe.config
+C:\Users\Programador\source\repos\ReportesAmsa\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe
+C:\Users\Programador\source\repos\ReportesAmsa\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.pdb
+C:\Users\Programador\source\repos\ReportesAmsa\AutorizacionPlanta\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\source\repos\ReportesAmsa\AutorizacionPlanta\bin\Debug\Principal.exe
+C:\Users\Programador\source\repos\ReportesAmsa\AutorizacionPlanta\bin\Debug\Principal.pdb
+C:\Users\Programador\source\repos\ReportesAmsa\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csprojResolveAssemblyReference.cache
+C:\Users\Programador\source\repos\ReportesAmsa\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Form1.resources
+C:\Users\Programador\source\repos\ReportesAmsa\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Properties.Resources.resources
+C:\Users\Programador\source\repos\ReportesAmsa\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csproj.GenerateResource.Cache
+C:\Users\Programador\source\repos\ReportesAmsa\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.exe
+C:\Users\Programador\source\repos\ReportesAmsa\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\AutorizacionPlanta\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\AutorizacionPlanta\bin\Debug\MaterialSkin.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\AutorizacionPlanta\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\AutorizacionPlanta\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\AutorizacionPlanta\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\AutorizacionPlanta\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\AutorizacionPlanta\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\AutorizacionPlanta.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\AutorizacionPlanta\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\AutorizacionPlanta\obj\Debug\AutorizacionPlanta.pdb

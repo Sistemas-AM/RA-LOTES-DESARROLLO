@@ -1,0 +1,4 @@
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Release\ReporteTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Release\ReporteTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Release\ReporteTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Release\ReporteTraspasos.csprojResolveAssemblyReference.cache

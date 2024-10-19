@@ -1,0 +1,215 @@
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+D:\Sistemas\ReportesAMSA - Copy\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+D:\Sistemas\ReportesAMSA - Copy\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+D:\Sistemas\ReportesAMSA - Copy\ReporteCapSucursales\bin\Debug\Principal.exe
+D:\Sistemas\ReportesAMSA - Copy\ReporteCapSucursales\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+D:\Sistemas\ReportesAMSA - Copy\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+D:\Sistemas\ReportesAMSA - Copy\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+D:\Programas Git\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+D:\Programas Git\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+D:\Programas Git\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+D:\Programas Git\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+D:\Programas Git\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+D:\Programas Git\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+D:\Programas Git\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+D:\Programas Git\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+D:\Programas Git\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+D:\Programas Git\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+D:\Programas Git\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+D:\Programas Git\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCapSucursales\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCapSucursales\obj\Debug\ReporteCapSucursales.csprojResolveAssemblyReference.cache

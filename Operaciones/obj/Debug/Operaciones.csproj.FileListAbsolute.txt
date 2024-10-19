@@ -1,0 +1,140 @@
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Operaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Operaciones\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Operaciones\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.AgregarOperacion.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.EditarOperaciones.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Operaciones\bin\Debug\MaterialSkin.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Operaciones\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Operaciones\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.AgregarOperacion.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.EditarOperaciones.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Operaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Operaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Operaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.AgregarOperacion.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.EditarOperaciones.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Operaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Operaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Operaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.AgregarOperacion.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.EditarOperaciones.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Operaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Operaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Operaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.AgregarOperacion.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.EditarOperaciones.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Operaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Operaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Operaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.AgregarOperacion.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.EditarOperaciones.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Operaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Operaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Operaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.AgregarOperacion.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.EditarOperaciones.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.AgregarOperacion.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.EditarOperaciones.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.AgregarOperacion.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.EditarOperaciones.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Operaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.AgregarOperacion.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.EditarOperaciones.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Operaciones\obj\Debug\Operaciones.pdb

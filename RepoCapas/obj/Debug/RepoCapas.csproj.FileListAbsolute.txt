@@ -1,0 +1,323 @@
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.application
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.application
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.application
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.application
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.application
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.application
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.application
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\bin\Debug\Principal.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\bin\Debug\Principal.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepoCapas\obj\Debug\RepoCapas.application
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\bin\Debug\RepoCapas.exe.config
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\bin\Debug\RepoCapas.application
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\bin\Debug\RepoCapas.exe
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\bin\Debug\RepoCapas.pdb
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\bin\Debug\Principal.exe
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\obj\Debug\RepoCapas.application
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\obj\Debug\RepoCapas.exe
+D:\Sistemas\ReportesAMSA - Copy\RepoCapas\obj\Debug\RepoCapas.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.application
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.application
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe
+D:\Sistemas Respaldo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.application
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.application
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+D:\Programas Git\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+D:\Programas Git\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+D:\Programas Git\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.application
+D:\Programas Git\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe
+D:\Programas Git\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+D:\Programas Git\Reportes_AMSA\RepoCapas\bin\Debug\Principal.exe
+D:\Programas Git\Reportes_AMSA\RepoCapas\bin\Debug\Principal.pdb
+D:\Programas Git\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+D:\Programas Git\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+D:\Programas Git\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+D:\Programas Git\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+D:\Programas Git\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+D:\Programas Git\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+D:\Programas Git\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+D:\Programas Git\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+D:\Programas Git\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.application
+D:\Programas Git\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe
+D:\Programas Git\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.application
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.application
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.application
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.application
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Pantacar.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.TrustInfo.xml
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.application
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepoCapas\obj\Debug\RepoCapas.csprojResolveAssemblyReference.cache

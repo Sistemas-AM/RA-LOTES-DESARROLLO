@@ -1,0 +1,672 @@
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\Pedido.exe
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\Pedido.pdb
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\bin\Debug\stdole.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\obj\Debug\Pedido.CargaPedido.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\obj\Debug\Pedido.Form1.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\obj\Debug\Pedido.repoPedido.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\obj\Debug\Pedido.exe
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\Pedido\obj\Debug\Pedido.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\Pedido.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\Pedido.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\bin\Debug\stdole.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\obj\Debug\Pedido.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\obj\Debug\Pedido.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\obj\Debug\Pedido.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\obj\Debug\Pedido.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\obj\Debug\Pedido.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\Pedido.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\Pedido.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\stdole.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\obj\Debug\Pedido.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\Pedido.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\Pedido.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\stdole.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\Pedido.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\Pedido.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\FlashControlV71.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\stdole.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.Form1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Pedido\obj\Debug\Pedido.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\Pedido.exe.config
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\Pedido.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\Pedido.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\Principal.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\stdole.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\Principal.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\obj\Debug\Pedido.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\obj\Debug\Pedido.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\obj\Debug\Pedido.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Pedido\bin\Debug\FlashControlV71.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\Pedido.exe.config
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\Pedido.exe
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\Pedido.pdb
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\FlashControlV71.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\Principal.exe
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\stdole.dll
+D:\Sistemas\ReportesAMSA - Copy\Pedido\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\Pedido\obj\Debug\Pedido.CargaPedido.resources
+D:\Sistemas\ReportesAMSA - Copy\Pedido\obj\Debug\Pedido.Existencias.resources
+D:\Sistemas\ReportesAMSA - Copy\Pedido\obj\Debug\Pedido.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\Pedido\obj\Debug\Pedido.repoPedido.resources
+D:\Sistemas\ReportesAMSA - Copy\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+D:\Sistemas\ReportesAMSA - Copy\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\Pedido\obj\Debug\Pedido.exe
+D:\Sistemas\ReportesAMSA - Copy\Pedido\obj\Debug\Pedido.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\Pedido.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\FlashControlV71.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\stdole.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\obj\Debug\Pedido.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\obj\Debug\Pedido.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Pedido\obj\Debug\Pedido.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\Pedido.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\FlashControlV71.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\stdole.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\obj\Debug\Pedido.Form1.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\obj\Debug\Pedido.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Pedido\obj\Debug\Pedido.pdb
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe.config
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\Pedido.pdb
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\FlashControlV71.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\Principal.exe
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\stdole.dll
+D:\Programas Git\Reportes_AMSA\Pedido\bin\Debug\Principal.pdb
+D:\Programas Git\Reportes_AMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+D:\Programas Git\Reportes_AMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+D:\Programas Git\Reportes_AMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+D:\Programas Git\Reportes_AMSA\Pedido\obj\Debug\Pedido.Form1.resources
+D:\Programas Git\Reportes_AMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+D:\Programas Git\Reportes_AMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+D:\Programas Git\Reportes_AMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+D:\Programas Git\Reportes_AMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+D:\Programas Git\Reportes_AMSA\Pedido\obj\Debug\Pedido.exe
+D:\Programas Git\Reportes_AMSA\Pedido\obj\Debug\Pedido.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\Pedido.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\FlashControlV71.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\stdole.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\obj\Debug\Pedido.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\obj\Debug\Pedido.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Pedido\obj\Debug\Pedido.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\Pedido.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\FlashControlV71.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\stdole.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\obj\Debug\Pedido.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\obj\Debug\Pedido.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Pedido\obj\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\obj\Debug\Pedido.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\obj\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Pedido\obj\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\obj\Debug\Pedido.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\obj\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\obj\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\obj\Debug\Pedido.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\obj\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\obj\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\obj\Debug\Pedido.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\obj\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\obj\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\obj\Debug\Pedido.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\obj\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\obj\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.CargaPedido.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.Existencias.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.repoPedido.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.ReporteCopia.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Pedido\obj\Debug\Pedido.csprojResolveAssemblyReference.cache

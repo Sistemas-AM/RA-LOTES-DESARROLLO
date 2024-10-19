@@ -1,0 +1,62 @@
+C:\Users\Programador\source\repos\Encuesta\Encuesta\bin\Debug\Encuesta.exe.config
+C:\Users\Programador\source\repos\Encuesta\Encuesta\bin\Debug\Encuesta.exe
+C:\Users\Programador\source\repos\Encuesta\Encuesta\bin\Debug\Encuesta.pdb
+C:\Users\Programador\source\repos\Encuesta\Encuesta\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\source\repos\Encuesta\Encuesta\bin\Debug\MetroFramework.Design.dll
+C:\Users\Programador\source\repos\Encuesta\Encuesta\bin\Debug\MetroFramework.dll
+C:\Users\Programador\source\repos\Encuesta\Encuesta\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Programador\source\repos\Encuesta\Encuesta\obj\Debug\Encuesta.Form1.resources
+C:\Users\Programador\source\repos\Encuesta\Encuesta\obj\Debug\Encuesta.Preguntas.resources
+C:\Users\Programador\source\repos\Encuesta\Encuesta\obj\Debug\Encuesta.Properties.Resources.resources
+C:\Users\Programador\source\repos\Encuesta\Encuesta\obj\Debug\Encuesta.csproj.GenerateResource.Cache
+C:\Users\Programador\source\repos\Encuesta\Encuesta\obj\Debug\Encuesta.exe
+C:\Users\Programador\source\repos\Encuesta\Encuesta\obj\Debug\Encuesta.pdb
+C:\Users\Programador\source\repos\Encuesta\Encuesta\obj\Debug\Encuesta.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\bin\Debug\Encuesta.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\obj\Debug\Encuesta.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\obj\Debug\Encuesta.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\bin\Debug\Encuesta.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\bin\Debug\Encuesta.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\bin\Debug\MetroFramework.Design.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\bin\Debug\MetroFramework.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\obj\Debug\Encuesta.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\obj\Debug\Encuesta.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\obj\Debug\Encuesta.Preguntas.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\obj\Debug\Encuesta.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\obj\Debug\Encuesta.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Encuesta\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\bin\Debug\Encuesta.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\bin\Debug\Encuesta.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\bin\Debug\Encuesta.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\bin\Debug\MetroFramework.Design.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\bin\Debug\MetroFramework.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\obj\Debug\Encuesta.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\obj\Debug\Encuesta.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\obj\Debug\Encuesta.Preguntas.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\obj\Debug\Encuesta.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\obj\Debug\Encuesta.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\obj\Debug\Encuesta.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Encuesta\obj\Debug\Encuesta.pdb
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\bin\Debug\Encuesta.exe.config
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\obj\Debug\Encuesta.exe
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\obj\Debug\Encuesta.pdb
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\bin\Debug\Encuesta.exe
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\bin\Debug\Encuesta.pdb
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\bin\Debug\MaterialSkin.dll
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\bin\Debug\MetroFramework.Design.dll
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\bin\Debug\MetroFramework.dll
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\bin\Debug\MetroFramework.Fonts.dll
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\bin\Debug\Principal.exe
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\bin\Debug\Principal.pdb
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\obj\Debug\Encuesta.csprojResolveAssemblyReference.cache
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\obj\Debug\Encuesta.Form1.resources
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\obj\Debug\Encuesta.Preguntas.resources
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\obj\Debug\Encuesta.Properties.Resources.resources
+D:\Copia Sistemas\Reportes_AMSA\Encuesta\obj\Debug\Encuesta.csproj.GenerateResource.Cache

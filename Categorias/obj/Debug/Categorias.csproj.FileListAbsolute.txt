@@ -1,0 +1,140 @@
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Categorias\bin\Debug\Categorias.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Categorias\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Categorias\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Categorias\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Categorias\obj\Debug\Categorias.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Categorias\obj\Debug\Categorias.AgregarCategoria.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Categorias\obj\Debug\Categorias.EditarCategoria.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Categorias\obj\Debug\Categorias.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Categorias\obj\Debug\Categorias.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Categorias\obj\Debug\Categorias.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Categorias\obj\Debug\Categorias.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Categorias\obj\Debug\Categorias.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Categorias\bin\Debug\Categorias.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Categorias\bin\Debug\MaterialSkin.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Categorias\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Categorias\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Categorias\obj\Debug\Categorias.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Categorias\obj\Debug\Categorias.AgregarCategoria.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Categorias\obj\Debug\Categorias.EditarCategoria.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Categorias\obj\Debug\Categorias.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Categorias\obj\Debug\Categorias.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Categorias\obj\Debug\Categorias.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Categorias\obj\Debug\Categorias.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Categorias\obj\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Categorias\bin\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Categorias\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Categorias\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Categorias\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Categorias\obj\Debug\Categorias.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Categorias\obj\Debug\Categorias.AgregarCategoria.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Categorias\obj\Debug\Categorias.EditarCategoria.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Categorias\obj\Debug\Categorias.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Categorias\obj\Debug\Categorias.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Categorias\obj\Debug\Categorias.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Categorias\obj\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Categorias\obj\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Categorias\bin\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Categorias\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Categorias\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Categorias\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Categorias\obj\Debug\Categorias.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Categorias\obj\Debug\Categorias.AgregarCategoria.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Categorias\obj\Debug\Categorias.EditarCategoria.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Categorias\obj\Debug\Categorias.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Categorias\obj\Debug\Categorias.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Categorias\obj\Debug\Categorias.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Categorias\obj\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Categorias\obj\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Categorias\bin\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Categorias\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Categorias\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Categorias\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Categorias\obj\Debug\Categorias.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Categorias\obj\Debug\Categorias.AgregarCategoria.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Categorias\obj\Debug\Categorias.EditarCategoria.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Categorias\obj\Debug\Categorias.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Categorias\obj\Debug\Categorias.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Categorias\obj\Debug\Categorias.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Categorias\obj\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Categorias\obj\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Categorias\bin\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Categorias\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Categorias\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Categorias\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Categorias\obj\Debug\Categorias.AgregarCategoria.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Categorias\obj\Debug\Categorias.EditarCategoria.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Categorias\obj\Debug\Categorias.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Categorias\obj\Debug\Categorias.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Categorias\obj\Debug\Categorias.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Categorias\obj\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Categorias\obj\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Categorias\obj\Debug\Categorias.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Categorias\bin\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Categorias\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Categorias\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Categorias\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Categorias\obj\Debug\Categorias.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Categorias\obj\Debug\Categorias.AgregarCategoria.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Categorias\obj\Debug\Categorias.EditarCategoria.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Categorias\obj\Debug\Categorias.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Categorias\obj\Debug\Categorias.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Categorias\obj\Debug\Categorias.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Categorias\obj\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Categorias\obj\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.AgregarCategoria.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.EditarCategoria.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.AgregarCategoria.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.EditarCategoria.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\Categorias.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Categorias\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.AgregarCategoria.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.EditarCategoria.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Categorias\obj\Debug\Categorias.pdb

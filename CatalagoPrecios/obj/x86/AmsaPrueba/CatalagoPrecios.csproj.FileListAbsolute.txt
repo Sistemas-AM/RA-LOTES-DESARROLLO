@@ -1,0 +1,7 @@
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\bin\x86\AmsaPrueba\CatalagoPrecios.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\bin\x86\AmsaPrueba\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\obj\x86\AmsaPrueba\CatalagoPrecios.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\obj\x86\AmsaPrueba\CatalagoPrecios.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\obj\x86\AmsaPrueba\CatalagoPrecios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\obj\x86\AmsaPrueba\CatalagoPrecios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\CatalagoPrecios\obj\x86\AmsaPrueba\CatalagoPrecios.exe

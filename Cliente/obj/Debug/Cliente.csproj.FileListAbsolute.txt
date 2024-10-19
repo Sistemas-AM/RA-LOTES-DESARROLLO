@@ -1,0 +1,154 @@
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cliente\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cliente\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cliente\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cliente\obj\Debug\Cliente.AgregarCliente.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cliente\obj\Debug\Cliente.EditarCliente.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cliente\obj\Debug\Cliente.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Cliente\obj\Debug\Cliente.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cliente\bin\Debug\Cliente.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cliente\bin\Debug\MaterialSkin.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cliente\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cliente\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cliente\obj\Debug\Cliente.AgregarCliente.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cliente\obj\Debug\Cliente.EditarCliente.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cliente\obj\Debug\Cliente.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cliente\obj\Debug\Cliente.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Programador\Desktop\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Programador\Desktop\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe
+C:\Users\Programador\Desktop\Reportes_AMSA\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Programador\Desktop\Reportes_AMSA\Cliente\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\Cliente\bin\Debug\Principal.exe
+C:\Users\Programador\Desktop\Reportes_AMSA\Cliente\bin\Debug\Principal.pdb
+C:\Users\Programador\Desktop\Reportes_AMSA\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Desktop\Reportes_AMSA\Cliente\obj\Debug\Cliente.AgregarCliente.resources
+C:\Users\Programador\Desktop\Reportes_AMSA\Cliente\obj\Debug\Cliente.EditarCliente.resources
+C:\Users\Programador\Desktop\Reportes_AMSA\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Programador\Desktop\Reportes_AMSA\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Programador\Desktop\Reportes_AMSA\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Programador\Desktop\Reportes_AMSA\Cliente\obj\Debug\Cliente.exe
+C:\Users\Programador\Desktop\Reportes_AMSA\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cliente\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cliente\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cliente\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cliente\obj\Debug\Cliente.AgregarCliente.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cliente\obj\Debug\Cliente.EditarCliente.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cliente\obj\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cliente\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cliente\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cliente\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cliente\obj\Debug\Cliente.AgregarCliente.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cliente\obj\Debug\Cliente.EditarCliente.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cliente\obj\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cliente\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cliente\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cliente\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cliente\obj\Debug\Cliente.AgregarCliente.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cliente\obj\Debug\Cliente.EditarCliente.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cliente\obj\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cliente\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cliente\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cliente\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cliente\obj\Debug\Cliente.AgregarCliente.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cliente\obj\Debug\Cliente.EditarCliente.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cliente\obj\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cliente\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cliente\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cliente\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cliente\obj\Debug\Cliente.AgregarCliente.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cliente\obj\Debug\Cliente.EditarCliente.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cliente\obj\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.AgregarCliente.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.EditarCliente.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.AgregarCliente.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.EditarCliente.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cliente\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.AgregarCliente.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.EditarCliente.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Cliente\obj\Debug\Cliente.pdb

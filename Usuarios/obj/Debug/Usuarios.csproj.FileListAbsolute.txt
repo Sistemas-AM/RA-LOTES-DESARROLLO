@@ -1,0 +1,344 @@
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Usuarios\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Usuarios\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Usuarios\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Usuarios\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Usuarios\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Usuarios\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Usuarios\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Usuarios\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Usuarios\obj\Debug\Usuarios.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Usuarios\bin\Debug\Usuarios.exe.config
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Usuarios\bin\Debug\Usuarios.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Usuarios\bin\Debug\Usuarios.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Usuarios\bin\Debug\MaterialSkin.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Usuarios\bin\Debug\Principal.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Usuarios\bin\Debug\Principal.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Usuarios\obj\Debug\Usuarios.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Usuarios\obj\Debug\Usuarios.pdb
+D:\Sistemas\ReportesAMSA - Copy\Usuarios\bin\Debug\Usuarios.exe.config
+D:\Sistemas\ReportesAMSA - Copy\Usuarios\bin\Debug\Usuarios.exe
+D:\Sistemas\ReportesAMSA - Copy\Usuarios\bin\Debug\Usuarios.pdb
+D:\Sistemas\ReportesAMSA - Copy\Usuarios\bin\Debug\MaterialSkin.dll
+D:\Sistemas\ReportesAMSA - Copy\Usuarios\bin\Debug\Principal.exe
+D:\Sistemas\ReportesAMSA - Copy\Usuarios\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+D:\Sistemas\ReportesAMSA - Copy\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+D:\Sistemas\ReportesAMSA - Copy\Usuarios\obj\Debug\Usuarios.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+D:\Sistemas\ReportesAMSA - Copy\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\Usuarios\obj\Debug\Usuarios.exe
+D:\Sistemas\ReportesAMSA - Copy\Usuarios\obj\Debug\Usuarios.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Usuarios\bin\Debug\MaterialSkin.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Usuarios\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Usuarios\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Usuarios\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Usuarios\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Usuarios\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.pdb
+D:\Programas Git\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe.config
+D:\Programas Git\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe
+D:\Programas Git\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.pdb
+D:\Programas Git\Reportes_AMSA\Usuarios\bin\Debug\MaterialSkin.dll
+D:\Programas Git\Reportes_AMSA\Usuarios\bin\Debug\Principal.exe
+D:\Programas Git\Reportes_AMSA\Usuarios\bin\Debug\Principal.pdb
+D:\Programas Git\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+D:\Programas Git\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+D:\Programas Git\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+D:\Programas Git\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+D:\Programas Git\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+D:\Programas Git\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+D:\Programas Git\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+D:\Programas Git\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.exe
+D:\Programas Git\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Usuarios\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Usuarios\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Usuarios\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Usuarios\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Usuarios\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Usuarios\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Usuarios\bin\Debug\Usuarios.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Usuarios\bin\Debug\Usuarios.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Usuarios\bin\Debug\Usuarios.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Usuarios\bin\Debug\MaterialSkin.dll
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Usuarios\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Usuarios\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Usuarios\bin\Debug\Usuarios.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Usuarios\bin\Debug\Usuarios.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Usuarios\bin\Debug\Usuarios.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Usuarios\bin\Debug\MaterialSkin.dll
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Usuarios\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Usuarios\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Usuarios\bin\Debug\Usuarios.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Usuarios\bin\Debug\Usuarios.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Usuarios\bin\Debug\Usuarios.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Usuarios\bin\Debug\MaterialSkin.dll
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Usuarios\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Usuarios\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Administrator\Documents\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Administrator\Documents\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Administrator\Documents\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Administrator\Documents\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Administrator\Documents\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Administrator\Documents\Reportes_AMSA\Usuarios\bin\Debug\MaterialSkin.dll
+C:\Users\Administrator\Documents\Reportes_AMSA\Usuarios\bin\Debug\Principal.exe
+C:\Users\Administrator\Documents\Reportes_AMSA\Usuarios\bin\Debug\Principal.pdb
+C:\Users\Administrator\Documents\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+C:\Users\Administrator\Documents\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+C:\Users\Administrator\Documents\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Administrator\Documents\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+C:\Users\Administrator\Documents\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\Administrator\Documents\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Usuarios\bin\Debug\MaterialSkin.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Usuarios\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Usuarios\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Usuarios\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Usuarios\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Usuarios\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Usuarios\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Usuarios\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Usuarios\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Usuarios\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Usuarios\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Usuarios\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Usuarios\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Usuarios\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Usuarios\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Usuarios\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Usuarios\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Usuarios\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Usuarios\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaPerfiles.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.CargaUsuarios.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Perfiles.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Usuarios\obj\Debug\Usuarios.pdb

@@ -1,0 +1,40 @@
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.Form1.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.Form2.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\ReporteDeVentasACreditoPorSucursal\bin\Debug\ReporteDeVentasACreditoPorSucursal.exe.config
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\ReporteDeVentasACreditoPorSucursal\bin\Debug\ReporteDeVentasACreditoPorSucursal.exe
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\ReporteDeVentasACreditoPorSucursal\bin\Debug\ReporteDeVentasACreditoPorSucursal.pdb
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\ReporteDeVentasACreditoPorSucursal\bin\Debug\itextsharp.dll
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\ReporteDeVentasACreditoPorSucursal\bin\Debug\itextsharp.pdb
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\ReporteDeVentasACreditoPorSucursal\bin\Debug\itextsharp.xml
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.exe
+C:\Users\Sistemas Practicas 2\Downloads\ReportesAMSA-Gabriel\ReportesAMSA-Gabriel\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\bin\Debug\ReporteDeVentasACreditoPorSucursal.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\bin\Debug\ReporteDeVentasACreditoPorSucursal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\bin\Debug\ReporteDeVentasACreditoPorSucursal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\bin\Debug\itextsharp.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\bin\Debug\itextsharp.xml
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.Form2.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-Gabriel\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\bin\Debug\ReporteDeVentasACreditoPorSucursal.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\bin\Debug\ReporteDeVentasACreditoPorSucursal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\bin\Debug\ReporteDeVentasACreditoPorSucursal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.Form2.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteDeVentasACreditoPorSucursal\bin\Debug\ReporteDeVentasACreditoPorSucursal.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteDeVentasACreditoPorSucursal\obj\Debug\ReporteDeVentasACreditoPorSucursal.pdb

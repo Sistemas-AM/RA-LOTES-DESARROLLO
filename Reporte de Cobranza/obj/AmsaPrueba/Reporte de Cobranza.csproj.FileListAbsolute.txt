@@ -1,0 +1,28 @@
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\Reporte de Cobranza.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\Reporte de Cobranza.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\bin\AmsaPrueba\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\obj\AmsaPrueba\Reporte de Cobranza.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\obj\AmsaPrueba\Reporte_de_Cobranza.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\obj\AmsaPrueba\Reporte_de_Cobranza.Form3.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\obj\AmsaPrueba\Reporte_de_Cobranza.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\obj\AmsaPrueba\Reporte de Cobranza.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Reporte de Cobranza\obj\AmsaPrueba\Reporte de Cobranza.exe

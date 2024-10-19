@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<!-- Select a Product Configuration -->
+		<InstallShieldProductConfiguration>Express</InstallShieldProductConfiguration>
+		<!-- Select a Visual Studio Configuration / InstallShield Release -->
+		<Configuration>Debug</Configuration>
+		<InstallShieldRelease>$(Configuration)</InstallShieldRelease>
+	</PropertyGroup>
+	<ItemGroup>
+		<!-- The InstallShieldProject item selects the project to build -->
+		<InstallShieldProject Include="$(MSBuildProjectDirectory)\$(MSBuildProjectName).isl"/>
+		<!-- The InstallShieldReleaseFlags sets Release Flags -->
+		<!--<InstallShieldReleaseFlags Include=""/>-->
+		<!-- The InstallShieldMergeModulePath specifies what directories are
+		searched for Merge Modules -->
+		<!--<InstallShieldMergeModulePath Include=""/>-->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The ProjectReference items refer to any Visual Studio solutions you want to automatically probe for Project Output Groups.  -->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The TaggedOutputs items allow you to explicitly add extra files to output groups. Each item must include both Name and OutputGroup, as well as TargetPath metadata values. -->
+		<!--<TaggedOutputs Include="C:\My Test Exe.exe">
+			<Name>My Test Project</Name>
+			<OutputGroup>Primary output</OutputGroup>
+			<TargetPath>My Test Exe.exe</TargetPath>
+		</TaggedOutputs> -->
+	</ItemGroup>
+	<Import Project="$(MSBuildExtensionsPath32)\InstallShield\2015Limited\InstallShield.targets"/>
+	<ItemGroup/>
+	<ItemGroup>
+		<ProjectReference Include="..\Cotizacion\Cotizacion.csproj">
+			<Name>Cotizacion</Name>
+			<Project>{D45B2102-405A-49A7-8555-7952D3030B58}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\LoginAmsa\LoginAmsa.csproj">
+			<Name>LoginAmsa</Name>
+			<Project>{78B6B595-596E-4176-A88A-2DD965CCB129}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\MenuPrincipal\MenuPrincipal.csproj">
+			<Name>MenuPrincipal</Name>
+			<Project>{7266504A-02DE-4FF7-9612-B8E47CA63793}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Reporte de Cobranza\Reporte de Cobranza.csproj">
+			<Name>Reporte de Cobranza</Name>
+			<Project>{BE2BF12E-3706-4FA2-AB4C-72024DD3C568}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Usuarios\Usuarios.csproj">
+			<Name>Usuarios</Name>
+			<Project>{75F9092E-C039-45E9-AD64-48919FAF61D3}</Project>
+		</ProjectReference>
+	</ItemGroup>
+</Project>

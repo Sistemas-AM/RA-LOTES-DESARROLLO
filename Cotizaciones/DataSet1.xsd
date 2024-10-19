@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Codigo" msprop:Generator_ColumnVarNameInTable="columnCodigo" msprop:Generator_ColumnPropNameInRow="Codigo" msprop:Generator_ColumnPropNameInTable="CodigoColumn" msprop:Generator_UserColumnName="Codigo" type="xs:string" minOccurs="0" />
+              <xs:element name="Nombre" msprop:Generator_ColumnVarNameInTable="columnNombre" msprop:Generator_ColumnPropNameInRow="Nombre" msprop:Generator_ColumnPropNameInTable="NombreColumn" msprop:Generator_UserColumnName="Nombre" type="xs:string" minOccurs="0" />
+              <xs:element name="Cantidad" msprop:Generator_ColumnVarNameInTable="columnCantidad" msprop:Generator_ColumnPropNameInRow="Cantidad" msprop:Generator_ColumnPropNameInTable="CantidadColumn" msprop:Generator_UserColumnName="Cantidad" type="xs:string" minOccurs="0" />
+              <xs:element name="Existencia" msprop:Generator_ColumnVarNameInTable="columnExistencia" msprop:Generator_ColumnPropNameInRow="Existencia" msprop:Generator_ColumnPropNameInTable="ExistenciaColumn" msprop:Generator_UserColumnName="Existencia" type="xs:string" minOccurs="0" />
+              <xs:element name="Precio" msprop:Generator_ColumnVarNameInTable="columnPrecio" msprop:Generator_ColumnPropNameInRow="Precio" msprop:Generator_ColumnPropNameInTable="PrecioColumn" msprop:Generator_UserColumnName="Precio" type="xs:double" minOccurs="0" />
+              <xs:element name="Importe" msprop:Generator_ColumnVarNameInTable="columnImporte" msprop:Generator_ColumnPropNameInRow="Importe" msprop:Generator_ColumnPropNameInTable="ImporteColumn" msprop:Generator_UserColumnName="Importe" type="xs:string" minOccurs="0" />
+              <xs:element name="Peso" msprop:Generator_ColumnVarNameInTable="columnPeso" msprop:Generator_ColumnPropNameInRow="Peso" msprop:Generator_ColumnPropNameInTable="PesoColumn" msprop:Generator_UserColumnName="Peso" type="xs:string" minOccurs="0" />
+              <xs:element name="Tot_x0020_Peso" msprop:Generator_ColumnVarNameInTable="columnTot_Peso" msprop:Generator_ColumnPropNameInRow="Tot_Peso" msprop:Generator_ColumnPropNameInTable="Tot_PesoColumn" msprop:Generator_UserColumnName="Tot Peso" type="xs:string" minOccurs="0" />
+              <xs:element name="_x0024_xKG1" msprop:Generator_ColumnVarNameInTable="_column_xKG1" msprop:Generator_ColumnPropNameInRow="__xKG1" msprop:Generator_ColumnPropNameInTable="__xKG1Column" msprop:Generator_UserColumnName="$xKG1" type="xs:string" minOccurs="0" />
+              <xs:element name="KGLAB" msprop:Generator_ColumnVarNameInTable="columnKGLAB" msprop:Generator_ColumnPropNameInRow="KGLAB" msprop:Generator_ColumnPropNameInTable="KGLABColumn" msprop:Generator_UserColumnName="KGLAB" type="xs:string" minOccurs="0" />
+              <xs:element name="Flete" msprop:Generator_ColumnVarNameInTable="columnFlete" msprop:Generator_ColumnPropNameInRow="Flete" msprop:Generator_ColumnPropNameInTable="FleteColumn" msprop:Generator_UserColumnName="Flete" type="xs:string" minOccurs="0" />
+              <xs:element name="Utilidad" msprop:Generator_ColumnVarNameInTable="columnUtilidad" msprop:Generator_ColumnPropNameInRow="Utilidad" msprop:Generator_ColumnPropNameInTable="UtilidadColumn" msprop:Generator_UserColumnName="Utilidad" type="xs:string" minOccurs="0" />
+              <xs:element name="_x0024_xKG2" msprop:Generator_ColumnVarNameInTable="_column_xKG2" msprop:Generator_ColumnPropNameInRow="__xKG2" msprop:Generator_ColumnPropNameInTable="__xKG2Column" msprop:Generator_UserColumnName="$xKG2" type="xs:string" minOccurs="0" />
+              <xs:element name="Dscto" msprop:Generator_ColumnVarNameInTable="columnDscto" msprop:Generator_ColumnPropNameInRow="Dscto" msprop:Generator_ColumnPropNameInTable="DsctoColumn" msprop:Generator_UserColumnName="Dscto" type="xs:string" minOccurs="0" />
+              <xs:element name="_x0024_xPza" msprop:Generator_ColumnVarNameInTable="_column_xPza" msprop:Generator_ColumnPropNameInRow="__xPza" msprop:Generator_ColumnPropNameInTable="__xPzaColumn" msprop:Generator_UserColumnName="$xPza" type="xs:string" minOccurs="0" />
+              <xs:element name="_x0024_aCot" msprop:Generator_ColumnVarNameInTable="_column_aCot" msprop:Generator_ColumnPropNameInRow="__aCot" msprop:Generator_ColumnPropNameInTable="__aCotColumn" msprop:Generator_UserColumnName="$aCot" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

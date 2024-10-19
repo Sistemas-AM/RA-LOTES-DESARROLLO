@@ -1,0 +1,1448 @@
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CargaArchivos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CatalagoPrecios.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Corte.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CorteGeneral.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Cotizacion.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Cotizaciones.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\DistribucionMateriales.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Formato.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Pedido.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\repoInv.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\RepoLore.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Reporte de Cobranza.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Reporte de Compras.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\ReporteDescuentos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\ReporteDeVentasDiarias.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\ReporteDevoluciones.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\ReporteVentasporSucursal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\SurtidoAccesorios.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Tipo_Cambio.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Dapper.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\itextsharp.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\stdole.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CargaArchivos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CorteGeneral.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Corte.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Cotizaciones.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Cotizacion.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\DistribucionMateriales.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Formato.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Pedido.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\repoInv.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\RepoLore.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Reporte de Cobranza.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Reporte de Compras.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\ReporteDescuentos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\ReporteDeVentasDiarias.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\ReporteDevoluciones.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\ReporteVentasporSucursal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\SurtidoAccesorios.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Dapper.xml
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\MaximosMinimos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\MaximosMinimos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Repo2.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Repo2.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Cotizacion2.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Cotizacion2.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\RepTraspasos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\RepTraspasos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\FormatoSolidos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\FormatoSolidos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\RepoMaterialNoConforme.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\RepoMaterialNoConforme.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\RepoCapas.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\RepoCapas.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CortePlanta.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\CortePlanta.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Menu.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Menu.exe.manifest
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Menu.application
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Menu.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\Menu.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\obj\Debug\Menu.exe.manifest
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\obj\Debug\Menu.application
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\obj\Debug\Menu.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\obj\Debug\Menu.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\RepVentasDiarias.rpt
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\Menu\bin\Debug\RepVentasDiarias.cs
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepVentasDiarias.rpt
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepVentasDiarias.cs
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Menu.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Menu.exe.manifest
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Menu.application
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Menu.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Menu.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CargaArchivos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CatalagoPrecios.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Corte.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CorteGeneral.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CortePlanta.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Cotizacion.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Cotizacion2.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Cotizaciones.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\DistribucionMateriales.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Formato.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\FormatoSolidos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\MaximosMinimos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Pedido.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Repo2.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepoCapas.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\repoInv.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepoLore.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepoMaterialNoConforme.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Reporte de Cobranza.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Reporte de Compras.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteDescuentos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteDeVentasDiarias.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteDevoluciones.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteVentasporSucursal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepTraspasos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\SurtidoAccesorios.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Tipo_Cambio.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Dapper.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\itextsharp.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\stdole.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CargaArchivos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CorteGeneral.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CortePlanta.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Corte.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Cotizacion2.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Cotizaciones.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Cotizacion.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\DistribucionMateriales.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\FormatoSolidos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Formato.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\MaximosMinimos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Pedido.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Repo2.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepoCapas.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\repoInv.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepoLore.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepoMaterialNoConforme.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Reporte de Cobranza.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Reporte de Compras.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteDescuentos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteDeVentasDiarias.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteDevoluciones.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteVentasporSucursal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepTraspasos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\SurtidoAccesorios.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Dapper.xml
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.exe.manifest
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.application
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepVentasDiarias.rpt
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepVentasDiarias.cs
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Menu.exe.config
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Menu.exe.manifest
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Menu.application
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Menu.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Menu.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CargaArchivos.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CatalagoPrecios.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Corte.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CorteGeneral.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CortePlanta.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Cotizacion.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Cotizacion2.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Cotizaciones.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\DistribucionMateriales.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Formato.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\FormatoSolidos.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\MaximosMinimos.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Pedido.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Repo2.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepoCapas.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\repoInv.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepoLore.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepoMaterialNoConforme.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Reporte de Cobranza.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Reporte de Compras.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteDescuentos.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteDeVentasDiarias.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteDevoluciones.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteVentasporSucursal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepTraspasos.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\SurtidoAccesorios.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Tipo_Cambio.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Dapper.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\itextsharp.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\FlashControlV71.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\stdole.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CargaArchivos.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CorteGeneral.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\CortePlanta.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Corte.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Cotizacion2.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Cotizaciones.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Cotizacion.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\DistribucionMateriales.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\FormatoSolidos.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Formato.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\MaximosMinimos.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Pedido.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Repo2.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepoCapas.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\repoInv.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepoLore.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepoMaterialNoConforme.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Reporte de Cobranza.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Reporte de Compras.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteDescuentos.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteDeVentasDiarias.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteDevoluciones.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteVentasporSucursal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\RepTraspasos.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\SurtidoAccesorios.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\bin\Debug\Dapper.xml
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.exe.manifest
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.application
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\Menu\obj\Debug\Menu.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Menu\obj\Debug\Menu.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Menu\obj\Debug\Menu.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Menu\obj\Debug\Menu.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\Menu\obj\Debug\Menu.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\Menu\obj\Debug\Menu.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\Menu\obj\Debug\Menu.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\Menu\obj\Debug\Menu.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\obj\Debug\Menu.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\RepVentasDiarias.rpt
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\RepVentasDiarias.cs
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Menu.exe.config
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Menu.exe.manifest
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Menu.application
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Menu.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Menu.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CargaArchivos.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CatalagoPrecios.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Corte.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CorteGeneral.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CortePlanta.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Cotizacion.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Cotizacion2.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Cotizaciones.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\DistribucionMateriales.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\DistribucionMaterialesSucursales.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Formato.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\FormatoSolidos.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\MaximosMinimos.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Pedido.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Repo2.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\RepoCapas.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\repoInv.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\RepoLore.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\RepoMaterialNoConforme.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Reporte de Cobranza.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Reporte de Compras.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\ReporteCapSucursales.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\ReporteDescuentos.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\ReporteDeVentasDiarias.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\ReporteDevoluciones.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\ReporteVentasporSucursal.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\ReporteVentasSucursal.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\RepTraspasos.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\SurtidoAccesorios.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Tipo_Cambio.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Principal.exe
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Dapper.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\itextsharp.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\FlashControlV71.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\stdole.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CargaArchivos.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CatalagoPrecios.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CorteGeneral.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\CortePlanta.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Corte.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Cotizacion2.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Cotizaciones.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Cotizacion.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\DistribucionMaterialesSucursales.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\DistribucionMateriales.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\FormatoSolidos.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Formato.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\MaximosMinimos.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Pedido.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Repo2.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\RepoCapas.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\repoInv.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\RepoLore.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\RepoMaterialNoConforme.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Reporte de Cobranza.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Reporte de Compras.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\ReporteCapSucursales.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\ReporteDescuentos.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\ReporteDeVentasDiarias.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\ReporteDevoluciones.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\ReporteVentasporSucursal.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\ReporteVentasSucursal.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\RepTraspasos.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\SurtidoAccesorios.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Tipo_Cambio.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\Menu\bin\Debug\Dapper.xml
+D:\Sistemas\ReportesAMSA - Copy\Menu\obj\Debug\Menu.exe.manifest
+D:\Sistemas\ReportesAMSA - Copy\Menu\obj\Debug\Menu.application
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.rpt
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.cs
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Menu.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Menu.exe.manifest
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Menu.application
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Menu.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Menu.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Corte.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CortePlanta.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Cotizacion.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Formato.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Pedido.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Repo2.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\RepoCapas.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\repoInv.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\RepoLore.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Dapper.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\itextsharp.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\FlashControlV71.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\stdole.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\CortePlanta.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Corte.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Cotizacion.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Formato.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Pedido.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Repo2.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\RepoCapas.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\repoInv.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\RepoLore.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\Dapper.xml
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\obj\Debug\Menu.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\obj\Debug\Menu.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\obj\Debug\Menu.exe.manifest
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\obj\Debug\Menu.application
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\obj\Debug\Menu.exe
+D:\Sistemas Respaldo\Reportes_AMSA\Menu\obj\Debug\Menu.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.rpt
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.cs
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Menu.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Menu.exe.manifest
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Menu.application
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Menu.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Menu.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Corte.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CortePlanta.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Cotizacion.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Formato.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Pedido.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Repo2.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\RepoCapas.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\repoInv.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\RepoLore.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Dapper.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\itextsharp.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\FlashControlV71.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\stdole.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\CortePlanta.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Corte.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Cotizacion.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Formato.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Pedido.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Repo2.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\RepoCapas.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\repoInv.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\RepoLore.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\Dapper.xml
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\obj\Debug\Menu.exe.manifest
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\obj\Debug\Menu.application
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\obj\Debug\Menu.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\Menu\obj\Debug\Menu.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.rpt
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.cs
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Menu.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Menu.exe.manifest
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Menu.application
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Menu.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Menu.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Corte.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CortePlanta.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Cotizacion.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Formato.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Pedido.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Repo2.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\RepoCapas.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\repoInv.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\RepoLore.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Dapper.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\itextsharp.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\FlashControlV71.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\stdole.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\CortePlanta.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Corte.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Cotizacion.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Formato.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Pedido.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Repo2.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\RepoCapas.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\repoInv.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\RepoLore.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\Dapper.xml
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\obj\Debug\Menu.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\obj\Debug\Menu.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\obj\Debug\Menu.exe.manifest
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\obj\Debug\Menu.application
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\obj\Debug\Menu.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Menu\obj\Debug\Menu.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.rpt
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.cs
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Menu.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Menu.exe.manifest
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Menu.application
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Menu.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Menu.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Corte.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CortePlanta.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Formato.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Repo2.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\repoInv.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\RepoLore.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Dapper.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\itextsharp.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\CortePlanta.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Corte.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Formato.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Repo2.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\repoInv.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\RepoLore.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\bin\Debug\Dapper.xml
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\obj\Debug\Menu.exe.manifest
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\obj\Debug\Menu.application
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\obj\Debug\Menu.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\Menu\obj\Debug\Menu.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.rpt
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.cs
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Menu.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Menu.exe.manifest
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Menu.application
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Menu.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Menu.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Corte.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CortePlanta.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Formato.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Repo2.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\repoInv.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\RepoLore.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Dapper.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\itextsharp.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\CortePlanta.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Corte.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Formato.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Repo2.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\repoInv.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\RepoLore.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\bin\Debug\Dapper.xml
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\obj\Debug\Menu.exe.manifest
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\obj\Debug\Menu.application
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\obj\Debug\Menu.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\Menu\obj\Debug\Menu.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.rpt
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.cs
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Menu.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Menu.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Menu.application
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Menu.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Menu.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Corte.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CortePlanta.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Formato.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Repo2.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\repoInv.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\RepoLore.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Dapper.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\itextsharp.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\CortePlanta.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Corte.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Formato.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Repo2.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\repoInv.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\RepoLore.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\bin\Debug\Dapper.xml
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\obj\Debug\Menu.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\obj\Debug\Menu.application
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\obj\Debug\Menu.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Menu\obj\Debug\Menu.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.rpt
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.cs
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Menu.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Menu.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Menu.application
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Menu.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Menu.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Corte.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CortePlanta.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Formato.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Repo2.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\repoInv.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\RepoLore.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Dapper.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\itextsharp.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\CortePlanta.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Corte.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Formato.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Repo2.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\repoInv.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\RepoLore.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\bin\Debug\Dapper.xml
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\obj\Debug\Menu.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\obj\Debug\Menu.application
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\obj\Debug\Menu.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\Menu\obj\Debug\Menu.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.rpt
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.cs
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Menu.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Menu.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Menu.application
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Menu.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Menu.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Corte.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CortePlanta.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Formato.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Repo2.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\repoInv.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoLore.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Dapper.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\itextsharp.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CortePlanta.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Corte.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Formato.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Repo2.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\repoInv.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoLore.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Dapper.xml
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.application
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.rpt
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.cs
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Menu.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Menu.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Menu.application
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Menu.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Menu.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Corte.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CortePlanta.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Formato.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Repo2.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\repoInv.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoLore.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Dapper.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\itextsharp.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CortePlanta.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Corte.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Formato.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Repo2.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\repoInv.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoLore.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Dapper.xml
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.application
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.rpt
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepVentasDiarias.cs
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Menu.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Menu.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Menu.application
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Menu.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Menu.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Corte.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CortePlanta.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizacion.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Formato.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Pedido.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Repo2.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoCapas.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\repoInv.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoLore.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Dapper.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\itextsharp.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CargaArchivos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CatalagoPrecios.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CorteGeneral.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\CortePlanta.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Corte.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizacion2.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Cotizacion.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\DistribucionMaterialesSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\DistribucionMateriales.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\FormatoSolidos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Formato.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\MaximosMinimos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Pedido.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Repo2.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoCapas.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\repoInv.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoLore.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepoMaterialNoConforme.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Reporte de Cobranza.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Reporte de Compras.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteCapSucursales.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDescuentos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDeVentasDiarias.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteDevoluciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteGeneralDeVentasPorUnidades.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasporSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\SurtidoAccesorios.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Tipo_Cambio.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\bin\Debug\Dapper.xml
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.application
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\Menu\obj\Debug\Menu.pdb

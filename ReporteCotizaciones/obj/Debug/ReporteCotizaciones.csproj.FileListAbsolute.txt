@@ -1,0 +1,154 @@
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\obj\Debug\RdlCompile.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\obj\Debug\RdlCompile.compiled
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MaterialSkin.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Design.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Fonts.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\obj\Debug\RdlCompile.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\obj\Debug\RdlCompile.compiled
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\ReporteCotizaciones.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Design.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCotizaciones\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteCotizaciones\obj\Debug\ReporteCotizaciones.pdb

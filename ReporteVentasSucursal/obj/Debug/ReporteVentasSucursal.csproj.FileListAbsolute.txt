@@ -1,0 +1,733 @@
+c:\users\sistemas practicas 2\documents\visual studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+c:\users\sistemas practicas 2\documents\visual studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+c:\users\sistemas practicas 2\documents\visual studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+c:\users\sistemas practicas 2\documents\visual studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\Principal.exe
+c:\users\sistemas practicas 2\documents\visual studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\Principal.pdb
+c:\users\sistemas practicas 2\documents\visual studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+c:\users\sistemas practicas 2\documents\visual studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+c:\users\sistemas practicas 2\documents\visual studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+c:\users\sistemas practicas 2\documents\visual studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+c:\users\sistemas practicas 2\documents\visual studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+c:\users\sistemas practicas 2\documents\visual studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\bin\Debug\stdole.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReporteVentasSucursal\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\FlashControlV71.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\FlashControlV71.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteVentasSucursal\bin\Debug\FlashControlV71.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\FlashControlV71.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\Principal.exe
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\stdole.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+D:\Sistemas\ReportesAMSA - Copy\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\FlashControlV71.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\FlashControlV71.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\FlashControlV71.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+D:\Programas Git\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\FlashControlV71.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\FlashControlV71.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\FlashControlV71.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+C:\Users\Programador\Desktop\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\stdole.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Cobros.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.Reporte.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.TrustInfo.xml
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe.manifest
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.application
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteVentasSucursal\obj\Debug\ReporteVentasSucursal.csprojResolveAssemblyReference.cache

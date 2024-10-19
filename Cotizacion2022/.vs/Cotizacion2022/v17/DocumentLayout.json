@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dahir\\Desktop\\modificado\\Reportes_AMSA\\Cotizacion2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BEBAE0-5D3D-47EE-9FC8-F5E41E912112}|Cotizacion2022.csproj|C:\\Users\\Dahir\\Desktop\\modificado\\Reportes_AMSA\\Cotizacion2022\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{C1BEBAE0-5D3D-47EE-9FC8-F5E41E912112}|Cotizacion2022.csproj|solutionrelative:report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BEBAE0-5D3D-47EE-9FC8-F5E41E912112}|Cotizacion2022.csproj|c:\\users\\dahir\\desktop\\modificado\\reportes_amsa\\cotizacion2022\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1BEBAE0-5D3D-47EE-9FC8-F5E41E912112}|Cotizacion2022.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BEBAE0-5D3D-47EE-9FC8-F5E41E912112}|Cotizacion2022.csproj|c:\\users\\dahir\\desktop\\modificado\\reportes_amsa\\cotizacion2022\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1BEBAE0-5D3D-47EE-9FC8-F5E41E912112}|Cotizacion2022.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1BEBAE0-5D3D-47EE-9FC8-F5E41E912112}|Cotizacion2022.csproj|c:\\users\\dahir\\desktop\\modificado\\reportes_amsa\\cotizacion2022\\report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}|XML",
+      "RelativeMoniker": "D:0:0:{C1BEBAE0-5D3D-47EE-9FC8-F5E41E912112}|Cotizacion2022.csproj|solutionrelative:report2.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}|XML"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dahir\\Desktop\\modificado\\Reportes_AMSA\\Cotizacion2022\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Dahir\\Desktop\\modificado\\Reportes_AMSA\\Cotizacion2022\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAMwSAAAAAAAAAAAgwEUSAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:58:56.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dahir\\Desktop\\modificado\\Reportes_AMSA\\Cotizacion2022\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Dahir\\Desktop\\modificado\\Reportes_AMSA\\Cotizacion2022\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:56:18.146Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report2.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dahir\\Desktop\\modificado\\Reportes_AMSA\\Cotizacion2022\\Report2.rdlc",
+              "RelativeDocumentMoniker": "Report2.rdlc",
+              "ToolTip": "C:\\Users\\Dahir\\Desktop\\modificado\\Reportes_AMSA\\Cotizacion2022\\Report2.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "Report2.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-06-22T19:49:41.114Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Report2.rdlc [XML]",
+              "DocumentMoniker": "C:\\Users\\Dahir\\Desktop\\modificado\\Reportes_AMSA\\Cotizacion2022\\Report2.rdlc",
+              "RelativeDocumentMoniker": "Report2.rdlc",
+              "ToolTip": "C:\\Users\\Dahir\\Desktop\\modificado\\Reportes_AMSA\\Cotizacion2022\\Report2.rdlc [XML]",
+              "RelativeToolTip": "Report2.rdlc [XML]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-06-22T19:48:53.464Z",
+              "EditorCaption": " [XML]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

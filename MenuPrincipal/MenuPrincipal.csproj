@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7266504A-02DE-4FF7-9612-B8E47CA63793}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MenuPrincipal</RootNamespace>
+    <AssemblyName>MenuPrincipal</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'AmsaPrueba|AnyCPU'">
+    <OutputPath>bin\AmsaPrueba\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'AmsaPrueba|x64'">
+    <PlatformTarget>x64</PlatformTarget>
+    <OutputPath>bin\x64\AmsaPrueba\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'AmsaPrueba|x86'">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\AmsaPrueba\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Variablescompartidas.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo trans.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\azul-claro10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reportechico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AuthOps\AuthOps.csproj">
+      <Project>{40f1fe17-7ca9-461b-84d0-7d640ec6b2f7}</Project>
+      <Name>AuthOps</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AutorizacionPlanta\AutorizacionPlanta.csproj">
+      <Project>{fd291d70-f1a4-4361-949f-21dba928df21}</Project>
+      <Name>AutorizacionPlanta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CargaArchivos\CargaArchivos.csproj">
+      <Project>{45b325eb-186b-42d0-8b1c-9cba67f39ca3}</Project>
+      <Name>CargaArchivos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CatalagoPrecios\CatalagoPrecios.csproj">
+      <Project>{13c902f6-2369-4d15-bf3a-a4d3895e653d}</Project>
+      <Name>CatalagoPrecios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Categorias\Categorias.csproj">
+      <Project>{e02a8cbe-cb4c-49c1-98a0-4326bb44e84e}</Project>
+      <Name>Categorias</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cliente\Cliente.csproj">
+      <Project>{1daf4412-aa79-4ac9-aa86-6ee85a7b7a31}</Project>
+      <Name>Cliente</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CorteGeneral\CorteGeneral.csproj">
+      <Project>{a84071a9-6492-4a39-9d00-897807d594ca}</Project>
+      <Name>CorteGeneral</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CortePlanta\CortePlanta.csproj">
+      <Project>{69b443af-7114-4b4d-be5d-adc3fafbd543}</Project>
+      <Name>CortePlanta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Corte\Corte.csproj">
+      <Project>{1c089070-458d-4862-b10c-a335f7013c5a}</Project>
+      <Name>Corte</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cotizacion2020\Cotizacion2020.csproj">
+      <Project>{008f08d0-421e-4c19-a618-608ecdd9ba14}</Project>
+      <Name>Cotizacion2020</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cotizacion2021\Cotizacion2021.csproj">
+      <Project>{50702abe-4fae-47a8-91b9-82b4f8bb8f92}</Project>
+      <Name>Cotizacion2021</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cotizacion2022\Cotizacion2022.csproj">
+      <Project>{c1bebae0-5d3d-47ee-9fc8-f5e41e912112}</Project>
+      <Name>Cotizacion2022</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cotizacion2\Cotizacion2.csproj">
+      <Project>{0b2e180b-8aae-4ab4-9897-617d603e7ce7}</Project>
+      <Name>Cotizacion2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cotizaciones\Cotizaciones.csproj">
+      <Project>{2bea7384-873f-40eb-a9b2-d761ff7fc943}</Project>
+      <Name>Cotizaciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cotizacion\Cotizacion.csproj">
+      <Project>{d45b2102-405a-49a7-8555-7952d3030b58}</Project>
+      <Name>Cotizacion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DistribucionMaterialesSucursales\DistribucionMaterialesSucursales.csproj">
+      <Project>{dd27e951-9b28-4e3c-bb6b-44e34bfdd193}</Project>
+      <Name>DistribucionMaterialesSucursales</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DistribucionMateriales\DistribucionMateriales.csproj">
+      <Project>{26d536a9-cb4c-420d-8675-d8f12d5153c0}</Project>
+      <Name>DistribucionMateriales</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Encuesta\Encuesta.csproj">
+      <Project>{7c748fd4-6a24-45d6-93d6-b2a51ff67ffb}</Project>
+      <Name>Encuesta</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntregasPla\EntregasPla.csproj">
+      <Project>{9c932bd2-93e7-44f9-ae60-293a7a2344bf}</Project>
+      <Name>EntregasPla</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FormatoSolidos\FormatoSolidos.csproj">
+      <Project>{2fb6818a-1f4d-4e22-a3f6-7d3fa7424d02}</Project>
+      <Name>FormatoSolidos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Formato\Formato.csproj">
+      <Project>{e72e2286-ef4b-452e-8b46-171d2e079424}</Project>
+      <Name>Formato</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GruaHiab\GruaHiab.csproj">
+      <Project>{25b7a29a-7b79-4756-9c03-79cf0377e65e}</Project>
+      <Name>GruaHiab</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LaborTeams\LaborTeams.csproj">
+      <Project>{d14bf3a1-b10e-499d-962f-d976aba9d7bb}</Project>
+      <Name>LaborTeams</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MaximosMinimos\MaximosMinimos.csproj">
+      <Project>{11caef98-a8a1-4a9a-bb0f-779d5e304f78}</Project>
+      <Name>MaximosMinimos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MonitoreoRetiro\MonitoreoRetiro.csproj">
+      <Project>{e55a41a3-7d5f-4ac3-b162-f633b74864af}</Project>
+      <Name>MonitoreoRetiro</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Operaciones\Operaciones.csproj">
+      <Project>{b27d0cf8-3d21-4cc3-979f-4f145c313803}</Project>
+      <Name>Operaciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OrdenesOT\OrdenesOT.csproj">
+      <Project>{d7d8e5d3-ffd4-4c98-b529-781cff7f7d80}</Project>
+      <Name>OrdenesOT</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OrdenEstatus\OrdenEstatus.csproj">
+      <Project>{d474c243-39c4-413d-87ce-fe12ba856de1}</Project>
+      <Name>OrdenEstatus</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Pedido\Pedido.csproj">
+      <Project>{c0b071b3-1e87-4af4-a8b4-a4bbff3aebf7}</Project>
+      <Name>Pedido</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Principal\Principal.csproj">
+      <Project>{c04b735b-2ead-40e0-989d-690f759f7071}</Project>
+      <Name>Principal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Repo2\Repo2.csproj">
+      <Project>{65863197-2589-48ca-bc0c-aeab099222b3}</Project>
+      <Name>Repo2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RepoCapas\RepoCapas.csproj">
+      <Project>{4dd6a0dc-9632-4649-9c13-fc11de79d323}</Project>
+      <Name>RepoCapas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\repoInv\repoInv.csproj">
+      <Project>{f2432e5c-5808-4368-a72e-6de5c666e213}</Project>
+      <Name>repoInv</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RepoLore\RepoLore.csproj">
+      <Project>{614af3a3-d219-40cb-81ba-99b6aa0a5bfa}</Project>
+      <Name>RepoLore</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RepoMaterialNoConforme\RepoMaterialNoConforme.csproj">
+      <Project>{6c724614-a3b7-4999-9137-e4a01c3275d6}</Project>
+      <Name>RepoMaterialNoConforme</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reporte de Cobranza\Reporte de Cobranza.csproj">
+      <Project>{be2bf12e-3706-4fa2-ab4c-72024dd3c568}</Project>
+      <Name>Reporte de Cobranza</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reporte de Compras\Reporte de Compras.csproj">
+      <Project>{a9584ba1-533f-4b16-8fba-fa63777eb659}</Project>
+      <Name>Reporte de Compras</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteCapSucursales\ReporteCapSucursales.csproj">
+      <Project>{0f084110-71b1-4637-9c8c-b5dd1bc46c66}</Project>
+      <Name>ReporteCapSucursales</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteDescuentos\ReporteDescuentos.csproj">
+      <Project>{19e99d7b-72f2-4d5a-9154-f0df880a1cef}</Project>
+      <Name>ReporteDescuentos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteDeVentasDiariasSucursales\ReporteDeVentasDiariasSucursales.csproj">
+      <Project>{b99b25d9-552f-4915-a04e-002a1fa484e0}</Project>
+      <Name>ReporteDeVentasDiariasSucursales</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteDeVentasDiarias\ReporteDeVentasDiarias.csproj">
+      <Project>{b890ad5e-c5eb-4220-94a2-457ef42ec825}</Project>
+      <Name>ReporteDeVentasDiarias</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteDevoluciones\ReporteDevoluciones.csproj">
+      <Project>{00b79b28-3d8e-44bd-9308-ee3e0abc8fd6}</Project>
+      <Name>ReporteDevoluciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteGeneralDeVentasPorUnidades\ReporteGeneralDeVentasPorUnidades.csproj">
+      <Project>{7bbd8342-6c72-433d-a334-d6c1bb13de13}</Project>
+      <Name>ReporteGeneralDeVentasPorUnidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteGeneralVentasUnidadesSucursales\ReporteGeneralVentasUnidadesSucursales.csproj">
+      <Project>{81baaf01-dabd-49c6-b53a-c589d581eb79}</Project>
+      <Name>ReporteGeneralVentasUnidadesSucursales</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteMRPendientes\ReporteMRPendientes.csproj">
+      <Project>{7c17b279-56d3-4219-8fea-c6cd4cea4732}</Project>
+      <Name>ReporteMRPendientes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteRelaciones\ReporteRelaciones.csproj">
+      <Project>{581d08bb-e9c4-4f0c-8cb9-14d5192bb6a2}</Project>
+      <Name>ReporteRelaciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteTraspasos\ReporteTraspasos\ReporteTraspasos.csproj">
+      <Project>{03ee5eb8-8124-422f-823b-89211da1549d}</Project>
+      <Name>ReporteTraspasos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteVentasporSucursal\ReporteVentasporSucursal.csproj">
+      <Project>{76be35d8-8c8c-4712-8f9a-2033d3ce7562}</Project>
+      <Name>ReporteVentasporSucursal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReporteVentasSucursal\ReporteVentasSucursal.csproj">
+      <Project>{035e8927-085e-44a6-bedf-66225fe05f0b}</Project>
+      <Name>ReporteVentasSucursal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RepTraspasos\RepTraspasos.csproj">
+      <Project>{82fca248-5236-4a7b-9e6a-f8f01b07bba4}</Project>
+      <Name>RepTraspasos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SalidasOrdenes\SalidasOrdenes.csproj">
+      <Project>{2caea12a-be93-46ad-85de-36cf12b266e4}</Project>
+      <Name>SalidasOrdenes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SurtidoAccesorios\SurtidoAccesorios.csproj">
+      <Project>{9b2e00f6-ec97-4ffe-a167-a898898c39d6}</Project>
+      <Name>SurtidoAccesorios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Tipo_Cambio\Tipo_Cambio.csproj">
+      <Project>{11210539-47da-478a-b52a-b9a925141b8e}</Project>
+      <Name>Tipo_Cambio</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Usuarios\Usuarios.csproj">
+      <Project>{75f9092e-c039-45e9-ad64-48919faf61d3}</Project>
+      <Name>Usuarios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sALIR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Opcion1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Opcion2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Opcion3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\opcion4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FONDO 1920X1080.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FONDO1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FONDO REPORTES.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FONDO 1920X10801.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FONDO11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\REPORTESA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\REPORTESA2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\REPORTESA3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\men ejem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\terminal-de-pago %281%29 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\precio %281%29 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sidebar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menubar %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\ahorrar-dinero.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\fabrica-ecologica.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\mas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\reporte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\precio %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\terminal-de-pago %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\AcerosMéxico_logo-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu desmods.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\reporte %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\reporte %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\reporte %281%29-Photoroom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\AcerosMéxico_logo-20-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\AcerosMéxico_logo-20 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\AcerosMéxico_logo-20 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Fondo Pureba.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Fondo Pureba %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Fondo redimencion%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\ahora si fondo bien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Fondo bien ya.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\fondo final.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\image%281%29.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

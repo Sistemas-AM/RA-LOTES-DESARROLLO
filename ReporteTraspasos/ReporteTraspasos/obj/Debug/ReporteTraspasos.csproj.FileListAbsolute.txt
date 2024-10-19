@@ -1,0 +1,278 @@
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\bin\Debug\MaterialSkin.dll
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\bin\Debug\MetroFramework.Design.dll
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\bin\Debug\MetroFramework.dll
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\bin\Debug\MetroFramework.Fonts.dll
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\bin\Debug\Principal.exe
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\bin\Debug\Principal.pdb
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\obj\Debug\RdlCompile.cache
+D:\Datos\fuentes\ReportesAmsa\32 Bits - copia\ReportesAMSA\ReporteTraspasos\obj\Debug\RdlCompile.compiled
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\RdlCompile.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\RdlCompile.compiled
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.exe
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\obj\Debug\RdlCompile.cache
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\obj\Debug\RdlCompile.compiled
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+D:\Sistemas\ReportesAMSA - Copy\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\RdlCompile.cache
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\RdlCompile.compiled
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+D:\Sistemas Respaldo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\RdlCompile.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\RdlCompile.compiled
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb
+D:\Programas Git\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+D:\Programas Git\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+D:\Programas Git\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+D:\Programas Git\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Programas Git\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.exe
+D:\Programas Git\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.pdb
+D:\Programas Git\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programas Git\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+D:\Programas Git\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+D:\Programas Git\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+D:\Programas Git\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+D:\Programas Git\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\RdlCompile.cache
+D:\Programas Git\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\RdlCompile.compiled
+D:\Programas Git\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+D:\Programas Git\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\RdlCompile.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\RdlCompile.compiled
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\RdlCompile.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\RdlCompile.compiled
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\ReporteTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\ReporteTraspasos\ReporteTraspasos\obj\Debug\ReporteTraspasos.pdb

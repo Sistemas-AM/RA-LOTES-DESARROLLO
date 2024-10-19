@@ -1,0 +1,139 @@
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MetroFramework.Design.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MetroFramework.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.PantallaCliente.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Direcciones.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\bin\Debug\MetroFramework.Design.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\bin\Debug\MetroFramework.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Direcciones.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.PantallaCliente.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA - Formato Cotizador\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MaterialSkin.dll
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MetroFramework.Design.dll
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MetroFramework.dll
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MetroFramework.Fonts.dll
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Direcciones.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.PantallaCliente.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MaterialSkin.dll
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MetroFramework.Design.dll
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MetroFramework.dll
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MetroFramework.Fonts.dll
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Direcciones.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.PantallaCliente.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MaterialSkin.dll
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MetroFramework.Design.dll
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MetroFramework.dll
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\MetroFramework.Fonts.dll
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Direcciones.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.PantallaCliente.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.exe
+D:\Sistemas Respaldo\Reportes_AMSA - Cotizador_Original - Copy\Reportes_AMSA - copia\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.pdb
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe.config
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.pdb
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\bin\Debug\MaterialSkin.dll
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\bin\Debug\MetroFramework.Design.dll
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\bin\Debug\MetroFramework.dll
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\bin\Debug\MetroFramework.Fonts.dll
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Principal.exe
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Principal.pdb
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Direcciones.resources
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Form1.resources
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.PantallaCliente.resources
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Properties.Resources.resources
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csproj.GenerateResource.Cache
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.exe
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.pdb
+D:\Sistemas\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csprojResolveAssemblyReference.cache
+C:\Users\c.leyva\Desktop\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe.config
+C:\Users\c.leyva\Desktop\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.exe
+C:\Users\c.leyva\Desktop\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.pdb
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe.config
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.pdb
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\bin\Debug\MetroFramework.Design.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\bin\Debug\MetroFramework.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Principal.exe
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Principal.pdb
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Direcciones.resources
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Form1.resources
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.PantallaCliente.resources
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Properties.Resources.resources
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csproj.GenerateResource.Cache
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.exe
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.pdb
+C:\Users\Programador\Desktop\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Catalogo_Clientes.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\bin\Debug\MaterialSkin.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\bin\Debug\MetroFramework.Design.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\bin\Debug\MetroFramework.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\bin\Debug\MetroFramework.Fonts.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Direcciones.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.PantallaCliente.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\Catalogo_Clientes\obj\Debug\Catalogo_Clientes.csproj.GenerateResource.Cache

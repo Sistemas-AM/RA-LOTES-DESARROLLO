@@ -1,0 +1,5 @@
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MenuPrincipal\obj\Release\MenuPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MenuPrincipal\obj\Release\MenuPrincipal.csproj.MenuPrincipal.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MenuPrincipal\obj\Release\MenuPrincipal.MenuAmsa.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MenuPrincipal\obj\Release\MenuPrincipal.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MenuPrincipal\obj\Release\MenuPrincipal.csproj.GenerateResource.Cache

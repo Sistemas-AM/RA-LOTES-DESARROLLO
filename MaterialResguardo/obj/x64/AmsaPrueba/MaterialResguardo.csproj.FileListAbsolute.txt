@@ -1,0 +1,6 @@
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MaterialResguardo\bin\x64\AmsaPrueba\MaterialResguardo.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MaterialResguardo\bin\x64\AmsaPrueba\MaterialResguardo.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MaterialResguardo\obj\x64\AmsaPrueba\MaterialResguardo.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MaterialResguardo\obj\x64\AmsaPrueba\MaterialResguardo.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MaterialResguardo\obj\x64\AmsaPrueba\MaterialResguardo.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\MaterialResguardo\obj\x64\AmsaPrueba\MaterialResguardo.exe

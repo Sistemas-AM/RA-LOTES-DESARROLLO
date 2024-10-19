@@ -1,0 +1,4 @@
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\GruaHiab\obj\x64\Debug\GruaHiab.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\GruaHiab\obj\x64\Debug\GruaHiab.Impresion.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\GruaHiab\obj\x64\Debug\GruaHiab.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\GruaHiab\obj\x64\Debug\GruaHiab.csproj.GenerateResource.Cache

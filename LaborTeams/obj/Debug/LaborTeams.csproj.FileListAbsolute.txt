@@ -1,0 +1,140 @@
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\LaborTeams\bin\Debug\MaterialSkin.dll
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\LaborTeams\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\LaborTeams\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.AgregarLT.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.EditarLT.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\LaborTeams\bin\Debug\MaterialSkin.dll
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\LaborTeams\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\LaborTeams\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.AgregarLT.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.EditarLT.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\LaborTeams\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\LaborTeams\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\LaborTeams\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.AgregarLT.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.EditarLT.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\LaborTeams\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\LaborTeams\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\LaborTeams\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.AgregarLT.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.EditarLT.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\LaborTeams\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\LaborTeams\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\LaborTeams\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.AgregarLT.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.EditarLT.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LaborTeams\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LaborTeams\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LaborTeams\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.AgregarLT.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.EditarLT.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\LaborTeams\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\LaborTeams\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\LaborTeams\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.AgregarLT.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.EditarLT.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.AgregarLT.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.EditarLT.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.AgregarLT.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.EditarLT.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\LaborTeams.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\MaterialSkin.dll
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\LaborTeams\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.AgregarLT.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.EditarLT.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\LaborTeams\obj\Debug\LaborTeams.pdb

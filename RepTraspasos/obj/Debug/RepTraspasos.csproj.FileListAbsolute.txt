@@ -1,0 +1,227 @@
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes AMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes AMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes AMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes AMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes AMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes AMSA\RepTraspasos\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes AMSA\RepTraspasos\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes AMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepTraspasos\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepTraspasos\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepTraspasos\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepTraspasos\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\ReportesAMSA\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepTraspasos\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepTraspasos\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+C:\Users\Programador\Documents\ReportesAMSA\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepTraspasos\bin\Debug\Principal.exe
+D:\AMSASERVER_DATA\Datos\fuentes\ReportesAmsa\32 Bits\ReportesAMSA\RepTraspasos\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+D:\Sistemas\ReportesAMSA - Copy\RepTraspasos\bin\Debug\RepTraspasos.exe
+D:\Sistemas\ReportesAMSA - Copy\RepTraspasos\bin\Debug\RepTraspasos.pdb
+D:\Sistemas\ReportesAMSA - Copy\RepTraspasos\bin\Debug\Principal.exe
+D:\Sistemas\ReportesAMSA - Copy\RepTraspasos\bin\Debug\Principal.pdb
+D:\Sistemas\ReportesAMSA - Copy\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+D:\Sistemas\ReportesAMSA - Copy\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+D:\Sistemas\ReportesAMSA - Copy\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+D:\Sistemas\ReportesAMSA - Copy\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+D:\Sistemas\ReportesAMSA - Copy\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+D:\Sistemas\ReportesAMSA - Copy\RepTraspasos\obj\Debug\RepTraspasos.exe
+D:\Sistemas\ReportesAMSA - Copy\RepTraspasos\obj\Debug\RepTraspasos.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+D:\Sistemas Respaldo\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+D:\Sistemas Respaldo\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.exe
+D:\Sistemas Respaldo\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.pdb
+D:\Sistemas Respaldo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+D:\Sistemas Respaldo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+D:\Sistemas Respaldo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+D:\Sistemas Respaldo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+D:\Sistemas Respaldo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+D:\Sistemas Respaldo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+C:\Users\Programador\Documents\Visual Studio 2015\Projects\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+D:\Programas Git\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+D:\Programas Git\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+D:\Programas Git\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+D:\Programas Git\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.exe
+D:\Programas Git\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.pdb
+D:\Programas Git\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+D:\Programas Git\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+D:\Programas Git\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+D:\Programas Git\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+D:\Programas Git\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+D:\Programas Git\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+D:\Programas Git\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.pdb
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+C:\Users\Programador\Documents\Proyectos Sistemas\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.pdb
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+D:\Sistemas (Copia Desarrollo)\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes_AMSA-2024 Sin mod\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\modificado\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\modificado - copia\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo para publicar sin boton guardar\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe.config
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepTraspasos\bin\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepTraspasos\bin\Debug\Principal.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.ResolveComReference.cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.exe
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.pdb
+C:\Users\Dahir\Desktop\Reportes listo2.5\Reportes listo\Reportes_AMSA\RepTraspasos\obj\Debug\RepTraspasos.csprojResolveAssemblyReference.cache

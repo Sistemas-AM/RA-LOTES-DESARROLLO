@@ -1,0 +1,13 @@
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteTransitoTraspasos\bin\Debug\ReporteTransitoTraspasos.exe.config
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteTransitoTraspasos\obj\Debug\ReporteTransitoTraspasos.csproj.ResolveComReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteTransitoTraspasos\bin\Debug\ReporteTransitoTraspasos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteTransitoTraspasos\bin\Debug\ReporteTransitoTraspasos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteTransitoTraspasos\bin\Debug\Principal.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteTransitoTraspasos\bin\Debug\Principal.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteTransitoTraspasos\obj\Debug\ReporteTransitoTraspasos.csprojResolveAssemblyReference.cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteTransitoTraspasos\obj\Debug\ReporteTransitoTraspasos.Form1.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteTransitoTraspasos\obj\Debug\ReporteTransitoTraspasos.Properties.Resources.resources
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteTransitoTraspasos\obj\Debug\ReporteTransitoTraspasos.csproj.GenerateResource.Cache
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteTransitoTraspasos\obj\Debug\ReporteTransitoTraspasos.exe
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteTransitoTraspasos\obj\Debug\ReporteTransitoTraspasos.pdb
+C:\Users\Sistemas Practicas 2\Documents\Visual Studio 2015\Projects\ReportesAMSA-CambioFecha\ReportesAMSA\ReporteTransitoTraspasos\obj\Debug\ReporteTransitoTraspasos.PantallaCarga.resources

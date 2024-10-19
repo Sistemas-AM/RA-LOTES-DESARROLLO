@@ -1,0 +1,6 @@
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Ordenes\bin\x86\AmsaPrueba\Ordenes.exe.config
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Ordenes\bin\x86\AmsaPrueba\Ordenes.exe
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Ordenes\obj\x86\AmsaPrueba\Ordenes.Form1.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Ordenes\obj\x86\AmsaPrueba\Ordenes.Properties.Resources.resources
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Ordenes\obj\x86\AmsaPrueba\Ordenes.csproj.GenerateResource.Cache
+C:\Users\Dahir\Desktop\Reportes listo para publicar\Reportes_AMSA\Ordenes\obj\x86\AmsaPrueba\Ordenes.exe
